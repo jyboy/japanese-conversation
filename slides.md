@@ -53,7 +53,7 @@ drawings:
 先生：わかりますか。
 学生：はい、(&nbsp;&nbsp;&nbsp;&nbsp;)
 
-<img src="images/0-1-1.jpg" style="max-width: 40%" />
+<img src="/images/0-1-1.jpg" style="max-width: 40%" />
 </div>
 <br />
 <div>
@@ -61,7 +61,7 @@ drawings:
 先生：わかりますか。
 学生：いいえ、(&nbsp;&nbsp;&nbsp;&nbsp;)
 
-<img src="images/0-1-2.jpg" />
+<img src="/images/0-1-2.jpg" />
 </div>
 </div>
 
@@ -73,17 +73,17 @@ drawings:
 
 <div class="grid grid-cols-2">
 (1) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="images/0-2-1.jpg" style="max-width: 15%" />
+<img src="/images/0-2-1.jpg" style="max-width: 15%" />
 (2) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="images/0-2-2.jpg" style="max-width: 15%" />
+<img src="/images/0-2-2.jpg" style="max-width: 15%" />
 (3) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="images/0-2-3.jpg" style="max-width: 15%" />
+<img src="/images/0-2-3.jpg" style="max-width: 15%" />
 (4) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="images/0-2-4.jpg" style="max-width: 15%" />
+<img src="/images/0-2-4.jpg" style="max-width: 15%" />
 (5) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="images/0-2-5.jpg" style="max-width: 15%" />
+<img src="/images/0-2-5.jpg" style="max-width: 15%" />
 (6) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="images/0-2-6.jpg" style="max-width: 15%" />
+<img src="/images/0-2-6.jpg" style="max-width: 15%" />
 </div>
 
 ---

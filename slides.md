@@ -1,18 +1,27 @@
 ---
 # try also 'default' to start simple
 theme: seriph
+title: 'Japanese Conversation'
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: https://source.unsplash.com/1600x1200/?japan
 # apply any windi css classes to the current slide
-class: 'text-center'
+class: 'text-center text-4xl'
 # https://sli.dev/custom/highlighters.html
 highlighter: shiki
 # show line numbers in code blocks
 lineNumbers: false
+# aspect ratio for the slides
+aspectRatio: '4/3'
+# fonts will be auto imported from Google fonts
+# Learn more: https://sli.dev/custom/fonts
+fonts:
+  sans: 'Noto Sans Japanese'
+  serif: 'Noto Serif Japanese'
+  mono: 'Noto Sans Mono'
 # some information about the slides, markdown enabled
 info: |
-  ## Japanese Conversation
+  ## Japanese Conversation Topics
   Presentation slides for Japanese beginners.
 
   Learn more at [Japanese Conversation](https://jp-conv.netlify.app)
@@ -23,7 +32,9 @@ drawings:
 
 # わかって話す日本語
 
-<ruby>王<rt>おう</rt></ruby>
+Japanese Conversation Topics
+
+<ruby>王<rt>おう</rt></ruby>WANG
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -45,45 +56,74 @@ drawings:
 
 # 0 はじめまして
 
-【問題１】<ruby>授業<rt>じゅぎょう</rt></ruby>の中で使う<ruby>言葉<rt>ことば</rt></ruby>です。先生が<ruby>質問<rt>しつもん</rt></ruby>した時、学生は何と言いますか。
+<p><ruby>授業<rt>じゅぎょう</rt></ruby>の中で使う<ruby>言葉<rt>ことば</rt></ruby>です。先生が<ruby>質問<rt>しつもん</rt></ruby>した時、学生は何と言いますか。</p>
 
 <div class="grid grid-cols-2">
-<div>
-(1)
-先生：わかりますか。
-学生：はい、(&nbsp;&nbsp;&nbsp;&nbsp;)
-
-<img src="/images/0-1-1.jpg" style="max-width: 40%" />
-</div>
-<br />
-<div>
-(2)
-先生：わかりますか。
-学生：いいえ、(&nbsp;&nbsp;&nbsp;&nbsp;)
-
-<img src="/images/0-1-2.jpg" />
-</div>
+  <div>
+    <div>
+      <span>(1)</span>
+      <p>先生：わかりますか。</p>
+      <p>学生：はい、( )</p>
+    </div>
+    <div>
+      <img src="/images/0-1-1.jpg" style="max-width: 20rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2)</span>
+    <div>
+      <p>先生：わかりますか。</p>
+      <p>学生：いいえ、( )</p>
+    </div>
+    <div>
+      <img src="/images/0-1-2.jpg" style="max-width: 20rem;" />
+    </div>
+  </div>
 </div>
 
 ---
 
 # 0 はじめまして
 
-【問題２】<ruby>挨拶<rt>あいさつ</rt></ruby>のことばを練習しましょう。次の<ruby>場面<rt>ばめん</rt></ruby>で何と言いますか。
+<ruby>挨拶<rt>あいさつ</rt></ruby>のことばを練習しましょう。次の<ruby>場面<rt>ばめん</rt></ruby>で何と言いますか。
 
-<div class="grid grid-cols-2">
-(1) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="/images/0-2-1.jpg" style="max-width: 15%" />
-(2) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="/images/0-2-2.jpg" style="max-width: 15%" />
-(3) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="/images/0-2-3.jpg" style="max-width: 15%" />
-(4) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="/images/0-2-4.jpg" style="max-width: 15%" />
-(5) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="/images/0-2-5.jpg" style="max-width: 15%" />
-(6) (&nbsp;&nbsp;&nbsp;&nbsp;)
-<img src="/images/0-2-6.jpg" style="max-width: 15%" />
+<div class="grid grid-cols-3 justify-items-center gap-y-4">
+  <div>
+    <span>(1) ( )</span>
+    <div>
+      <img src="/images/0-2-1.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2) ( )</span>
+    <div>
+      <img src="/images/0-2-2.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(3) ( )</span>
+    <div>
+      <img src="/images/0-2-3.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(4) ( )</span>
+    <div>
+      <img src="/images/0-2-4.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(5) ( )</span>
+    <div>
+      <img src="/images/0-2-5.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(6) ( )</span>
+    <div>
+      <img src="/images/0-2-6.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
 </div>
 
 ---
@@ -98,16 +138,115 @@ drawings:
 ① <ruby>劉<rt>りゅう</rt></ruby>
 ② りゅう
 ③ 社員
-④ <ruby>洛陽<rt>らくよう</rt></ruby>
+④ <ruby>洛陽<rt>らくよう</rt></ruby> Luoyang
 
 あなた：
 ① 王
 ② おう
 ③ 社員
-④ 洛陽
+④ 洛陽 Luoyang
+
+<div class="grid grid-cols-2 grid-cols-[1fr,2fr]">
+  <div class="justify-self-center">
+    <img src="/images/0-3-1.jpeg" style="max-width: 12rem;" />
+  </div>
+  <p style="font-size: 1.5rem;"><strong><ruby>洛陽<rt>らくよう</rt></ruby></strong>は、中国の<ruby>真<rt>ま</rt></ruby>ん中にあります。中国<ruby>史上<rt>しじょう</rt></ruby>、しばしば中国<ruby>王朝<rt>おうちょう</rt></ruby>の<ruby>首都<rt>しゅと</rt></ruby>となった。</p>
+</div>
 
 ---
 
 # 1 ご家族は何人ですか。
+
+| **単語**                     | **英訳**                       |
+| ---------------------------- | ------------------------------ |
+| ずいぶん                     | very; extremely                |
+| 大勢（おおぜい）             | a crowd of people              |
+| 専業主婦（せんぎょうしゅふ） | a (full-time) housewife        |
+| 高校生（こうこうせい）       | a (senior) high school student |
+| 教師（きょうし）             | a teacher; a tutor             |
+| 兄弟（きょうだい）           | a brother; a sister            |
+
+---
+
+# 1 ご家族は何人ですか。
+
+| **単語**                       | **英訳**                           |
+| ------------------------------ | ---------------------------------- |
+| 農民（のうみん）               | a farmer                           |
+| 弁護士（べんごし）             | a lawyer                           |
+| 公務員（こうむいん）           | a public employee; a civil servant |
+| シェフ / コック /<br />板前（いたまえ） | a cook; a chef                     |
+
+---
+
+# 1 ご家族は何人ですか。
+
+次の絵と<ruby>説明<rt>せつめい</rt></ruby>を見て、質問に答えてください。
+
+<div class="grid grid-cols-2">
+  <div class="self-center">
+    <div>
+      <img src="/images/1-1-1.jpg" style="max-width: 15rem;" />
+    </div>
+    <div>
+      <p>お父さん：会社員 39歳</p>
+      <p>お母さん：先生 36歳</p>
+      <p><ruby>妹<rt>いもうと</rt></ruby>：<ruby>幼稚園<rt>ようちえん</rt></ruby> 5歳</p>
+      <p>私：小学生5年生 10歳</p>
+    </div>
+  </div>
+  <div>
+    <p style="font-size: 1.5rem;">(1) ご家族は何人ですか。</p>
+    <p style="font-size: 1.5rem;">(2) お父さんはおいくつですか。</p>
+    <p style="font-size: 1.5rem;">(3) お母さんも39歳ですか。</p>
+    <p style="font-size: 1.5rem;">(4) お父さんの<ruby>職業<rt>しょくぎょう</rt></ruby>は何ですか。</p>
+    <p style="font-size: 1.5rem;">(5) お母さんも会社員ですか。</p>
+    <p style="font-size: 1.5rem;">(6) 妹さんは何歳ですか。</p>
+    <p style="font-size: 1.5rem;">(7) あなたは小学校の何年生ですか。</p>
+    <p style="font-size: 1.5rem;">(8) 妹さんも小学生ですか。</p>
+  </div>
+</div>
+
+---
+
+# 1 ご家族は何人ですか。
+
+会話の<ruby>練習<rt>れんしゅう</rt></ruby>です。<ruby>図<rt>ず</rt></ruby>を見て、家族を紹介してください。
+
+<div class="grid grid-cols-2">
+  <div class="self-center">
+    <img src="/images/1-2-1.jpg" style="max-width: 22.5rem;" />
+  </div>
+  <div>
+    <p><ruby>祖父<rt>そふ</rt></ruby>：農民</p>
+    <p><ruby>祖母<rt>そぼ</rt></ruby>：<ruby>専業<rt>せんぎょう</rt></ruby><ruby>主婦<rt>しゅふ</rt></ruby></p>
+    <p>父：<ruby>警察官<rt>けいさつかん</rt></ruby></p>
+    <p>母：<ruby>教員<rt>きょういん</rt></ruby></p>
+    <p><ruby>叔母<rt>おば</rt></ruby>：会社員</p>
+    <p>私：大学生</p>
+  </div>
+</div>
+
+---
+
+# 1 ご家族は何人ですか。
+
+会話の練習です。絵を見て、答えてください。
+
+<div class="grid grid-cols-2">
+  <div>
+    <img src="/images/1-3-1.jpg" style="max-width: 22.5rem;" />
+  </div>
+  <div class="self-center">
+    <p style="font-size: 1.5rem;">(1) 木村さんは先生ですか。</p>
+    <p style="font-size: 1.5rem;">(2) <ruby>高<rt>こう</rt></ruby>さんの<ruby>職業<rt>しょくぎょう</rt></ruby>はなんですか。</p>
+    <p style="font-size: 1.5rem;">(3) <ruby>劉<rt>りゅう</rt></ruby>さんの職業はなんですか。</p>
+    <p style="font-size: 1.5rem;">(4) <ruby>張<rt>ちょう</rt></ruby>さんも農民ですか。</p>
+  </div>
+</div>
+
+---
+
+# 2 それは何ですか。
 
 続く

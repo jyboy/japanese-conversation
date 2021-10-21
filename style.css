@@ -1,0 +1,8 @@
+.slidev-layout, .slidev-layout p {
+    font-size: 1.875rem;
+    line-height: 3.25rem;
+}
+
+.slidev-layout h1 + p {
+    font-size: 1.5rem;
+}

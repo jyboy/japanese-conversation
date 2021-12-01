@@ -43,6 +43,10 @@ Japanese Conversation Topics
 </div>
 
 <div class="abs-br m-6 flex gap-2">
+  <a href="https://www.cambly.com/invite/55F5PJRM?st=120121&sc=4" target="_blank" alt="GitHub"
+    class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
+    <img src="/images/cambly.png" />
+  </a>
   <a href="https://github.com/jyboy/japanese_conversation" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
@@ -55,7 +59,7 @@ Japanese Conversation Topics
 
 <p><ruby>授業<rt>じゅぎょう</rt></ruby>の中で使う<ruby>言葉<rt>ことば</rt></ruby>です。先生が<ruby>質問<rt>しつもん</rt></ruby>した時、学生は何と言いますか。</p>
 
-<div class="grid grid-cols-2">
+<div class="grid grid-cols-2 justify-items-center">
   <div>
     <div>
       <span>(1)</span>
@@ -189,7 +193,7 @@ Japanese Conversation Topics
       <p>お父さん：会社員 39歳</p>
       <p>お母さん：先生 36歳</p>
       <p><ruby>妹<rt>いもうと</rt></ruby>：<ruby>幼稚園<rt>ようちえん</rt></ruby> 5歳</p>
-      <p>私：小学生5年生 10歳</p>
+      <p>私：小学生の5年生 10歳</p>
     </div>
   </div>
   <div>

@@ -45,7 +45,7 @@ Japanese Conversation Topics
 <div class="abs-br m-6 flex gap-2">
   <a href="https://www.cambly.com/invite/55F5PJRM?st=120121&sc=4" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
-    <img src="/images/cambly.png" />
+    <img src="/images/cambly.png" style="max-width: 1.5rem;" />
   </a>
   <a href="https://github.com/jyboy/japanese_conversation" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">

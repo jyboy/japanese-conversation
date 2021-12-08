@@ -43,7 +43,7 @@ Japanese Conversation Topics
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://www.cambly.com/invite/55F5PJRM?st=120121&sc=4" target="_blank" alt="GitHub"
+  <a href="https://www.cambly.com/invite/55F5PJRM?st=120121&sc=4" target="_blank" alt="Cambly"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <img src="/images/cambly.png" style="max-width: 1.5rem;" />
   </a>
@@ -271,7 +271,7 @@ Japanese Conversation Topics
 
 絵を見て二人で会話をしてください。
 
-<div class="grid grid-cols-2">
+<div class="grid grid-cols-2 grid-cols-[3fr,2fr]">
   <div>
     <p>A: これは日本語で何と言いますか。</p>
     <p>B: それは日本語で____と言います。</p>
@@ -292,7 +292,7 @@ Japanese Conversation Topics
 
 絵を見て二人で会話をしてください。
 
-<div class="grid grid-cols-2">
+<div class="grid grid-cols-2 grid-cols-[2fr,3fr]">
   <div>
     <p>A: あれは何ですか。</p>
     <p>B: あれは____です。</p>
@@ -327,10 +327,24 @@ Japanese Conversation Topics
 
 絵を見て質問に答えてください。
 
-(1) 鉛筆はどこですか。
-(2) 車はどこですか。
-(3) 教室の時計はどこですか。
-(4) お手<ruby>洗<rt>あら</rt></ruby>い / トイレはどこですか。
+<div class="grid grid-cols-2">
+  <div>
+    <p style="font-size: 1.5rem;">(1) 鉛筆はどこですか。</p>
+    <img src="/images/2-3-1.jpg" style="max-width: 15rem;" />
+  </div>
+  <div>
+    <p style="font-size: 1.5rem;">(2) 車はどこですか。</p>
+    <img src="/images/2-3-2.jpg" style="max-width: 15rem;" />
+  </div>
+  <div>
+    <p style="font-size: 1.5rem;">(3) 教室の時計はどこですか。</p>
+    <img src="/images/2-3-3.jpg" style="max-width: 15rem;" />
+  </div>
+  <div>
+    <p style="font-size: 1.5rem;">(4) お手<ruby>洗<rt>あら</rt></ruby>い（トイレ）はどこですか。</p>
+    <img src="/images/2-3-4.jpg" style="max-width: 15rem;" />
+  </div>
+</div>
 
 ---
 
@@ -338,14 +352,35 @@ Japanese Conversation Topics
 
 次のイラスト (illustration) を見て、答えてください。
 
-(1)
-A: 鉛筆はどこですか。
-B: 鉛筆は____。
+<div class="grid grid-cols-2 gap-y-4">
+  <div>
+    <img src="/images/2-4-1.jpg" style="max-width: 15rem;" />
+  </div>
+  <div>
+    <span>(1)</span>
+    <p>A: 鉛筆はどこですか。<br />
+    B: 鉛筆は____。</p>
+  </div>
+  <div>
+    <img src="/images/2-4-2.jpg" style="max-width: 15rem;" />
+  </div>
+  <div>
+    <span>(2)</span>
+    <p>A: 田中さんはどこですか。<br />
+    B: 田中さんは____。</p>
+  </div>
+  <div>
+    <img src="/images/2-4-3.jpg" style="max-width: 15rem;" />
+  </div>
+  <div>
+    <span>(3)</span>
+    <p>A: ________。<br />
+    B:（<ruby>帽子<rt>ぼうし</rt></ruby>）はそこです。</p>
+  </div>
+</div>
 
-(2)
-A: 田中さんはどこですか。
-B: 田中さんは____。
+---
 
-(3)
-A: ________。
-B:（<ruby>帽子<rt>ぼうし</rt></ruby>）はそこです。
+# 3 いま何時ですか。
+
+続く

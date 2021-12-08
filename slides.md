@@ -158,6 +158,8 @@ Japanese Conversation Topics
 
 # 1 ご家族は何人ですか。
 
+<ruby>意味<rt>いみ</rt></ruby>と<ruby>発音<rt>はつおん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してください。
+
 | **単語**                     | **英訳**                       |
 | ---------------------------- | ------------------------------ |
 | ずいぶん                     | very; extremely                |
@@ -170,6 +172,8 @@ Japanese Conversation Topics
 ---
 
 # 1 ご家族は何人ですか。
+
+<ruby>意味<rt>いみ</rt></ruby>と<ruby>発音<rt>はつおん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してください。
 
 | **単語**                       | **英訳**                           |
 | ------------------------------ | ---------------------------------- |
@@ -250,4 +254,98 @@ Japanese Conversation Topics
 
 # 2 それは何ですか。
 
-続く
+<ruby>意味<rt>いみ</rt></ruby>と<ruby>発音<rt>はつおん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **単語**         | **英訳**       |
+| ---------------- | -------------- |
+| レモンティー     | lemon tea      |
+| カフェオレ       | cafe au lait   |
+| ミルクコーヒー   | milk coffee    |
+| オレンジジュース | orange juice   |
+| ハサミ           | scissors       |
+| 目覚まし時計     | an alarm clock |
+
+---
+
+# 2 それは何ですか。
+
+絵を見て二人で会話をしてください。
+
+<div class="grid grid-cols-2">
+  <div>
+    <p>A: これは日本語で何と言いますか。</p>
+    <p>B: それは日本語で____と言います。</p>
+  </div>
+  <div class="justify-self-center">
+    <span>(1)</span>
+    <img src="/images/2-1-1.jpg" style="max-width: 8rem;" />
+    <span>(2)</span>
+    <img src="/images/2-1-2.jpg" style="max-width: 8rem;" />
+    <span>(3)</span>
+    <img src="/images/2-1-3.jpg" style="max-width: 8rem;" />
+  </div>
+</div>
+
+---
+
+# 2 それは何ですか。
+
+絵を見て二人で会話をしてください。
+
+<div class="grid grid-cols-2">
+  <div>
+    <p>A: あれは何ですか。</p>
+    <p>B: あれは____です。</p>
+  </div>
+  <div class="justify-self-center">
+    <span>(1)</span>
+    <img src="/images/2-2-1.jpg" style="max-width: 8rem;" />
+    <span>(2)</span>
+    <img src="/images/2-2-2.jpg" style="max-width: 8rem;" />
+    <span>(3)</span>
+    <img src="/images/2-2-3.jpg" style="max-width: 8rem;" />
+  </div>
+</div>
+
+---
+
+# 2 それは何ですか。
+
+<ruby>意味<rt>いみ</rt></ruby>と<ruby>発音<rt>はつおん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **単語**                          | **英訳**           |
+| --------------------------------- | ------------------ |
+| ビル / 建物                       | a building         |
+| デパート / 百貨店（ひゃっかてん） | a department store |
+| 本屋                              | a bookstore        |
+| レストラン                        | a resturant        |
+| 食事                              | a meal; (a) dinner |
+
+---
+
+# 2 それは何ですか。
+
+絵を見て質問に答えてください。
+
+(1) 鉛筆はどこですか。
+(2) 車はどこですか。
+(3) 教室の時計はどこですか。
+(4) お手<ruby>洗<rt>あら</rt></ruby>い / トイレはどこですか。
+
+---
+
+# 2 それは何ですか。
+
+次のイラスト (illustration) を見て、答えてください。
+
+(1)
+A: 鉛筆はどこですか。
+B: 鉛筆は____。
+
+(2)
+A: 田中さんはどこですか。
+B: 田中さんは____。
+
+(3)
+A: ________。
+B:（<ruby>帽子<rt>ぼうし</rt></ruby>）はそこです。

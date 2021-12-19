@@ -383,4 +383,24 @@ Japanese Conversation Topics
 
 # 3 いま何時ですか。
 
-続く
+<ruby>意味<rt>いみ</rt></ruby>と<ruby>発音<rt>はつおん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **単語**       | **英訳**       |
+| -------------- | -------------- |
+| 昼間（ひるま） | daytime        |
+| 夜             | night; evening |
+| 朝             | morning        |
+| 晩             | evening; nignt |
+
+---
+
+# 3 いま何時ですか。
+
+<ruby>意味<rt>いみ</rt></ruby>と<ruby>発音<rt>はつおん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **単語**         | **英訳**  |
+| ---------------- | --------- |
+| 午前             | morning   |
+| 正午（しょうご） | noon      |
+| 午後             | afternoon |
+| 夕方（ゆうがた） | evening   |

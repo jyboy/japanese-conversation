@@ -90,37 +90,37 @@ Japanese Conversation Topics
 
 <div class="grid grid-cols-3 justify-items-center gap-y-4">
   <div>
-    <span>(1) ( )</span>
+    <span>(1)</span>
     <div>
       <img src="/images/0-2-1.jpg" style="max-width: 11.25rem;" />
     </div>
   </div>
   <div>
-    <span>(2) ( )</span>
+    <span>(2)</span>
     <div>
       <img src="/images/0-2-2.jpg" style="max-width: 11.25rem;" />
     </div>
   </div>
   <div>
-    <span>(3) ( )</span>
+    <span>(3)</span>
     <div>
       <img src="/images/0-2-3.jpg" style="max-width: 11.25rem;" />
     </div>
   </div>
   <div>
-    <span>(4) ( )</span>
+    <span>(4)</span>
     <div>
       <img src="/images/0-2-4.jpg" style="max-width: 11.25rem;" />
     </div>
   </div>
   <div>
-    <span>(5) ( )</span>
+    <span>(5)</span>
     <div>
       <img src="/images/0-2-5.jpg" style="max-width: 11.25rem;" />
     </div>
   </div>
   <div>
-    <span>(6) ( )</span>
+    <span>(6)</span>
     <div>
       <img src="/images/0-2-6.jpg" style="max-width: 11.25rem;" />
     </div>
@@ -390,7 +390,7 @@ Japanese Conversation Topics
 | 昼間（ひるま） | daytime        |
 | 夜             | night; evening |
 | 朝             | morning        |
-| 晩             | evening; nignt |
+| 晩             | evening; night |
 
 ---
 
@@ -404,3 +404,117 @@ Japanese Conversation Topics
 | 正午（しょうご） | noon      |
 | 午後             | afternoon |
 | 夕方（ゆうがた） | evening   |
+
+---
+
+# 3 いま何時ですか。
+
+時にを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **時** | **ひらがな** | **時** | **ひらがな** |
+| ------ | ------------ | ------ | ------------ |
+| 1 時   | いちじ       | 6 時   | ろくじ       |
+| 2 時   | にじ         | 7 時   | しちじ       |
+| 3 時   | さんじ       | 8 時   | はちじ       |
+| 4 時   | よじ         | 9 時   | くじ         |
+| 5 時   | ごじ         | 10 時  | じゅうじ     |
+
+---
+
+# 3 いま何時ですか。
+
+時にを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **分** | **ひらがな**                     | **分** | **ひらがな**                                    |
+| ------ | -------------------------------- | ------ | ----------------------------------------------- |
+| 1 分   | いっ<mark>ぷ</mark>ん            | 6 分   | ろっ<mark>ぷ</mark>ん                           |
+| 2 分   | にふん                           | 7 分   | しちふん / ななふん                             |
+| 3 分   | さん<mark>ぷ</mark>ん            | 8 分   | はっ<mark>ぷ</mark>ん / はちふん                |
+| 4 分   | よん<mark>ぷ</mark>ん / よんふん | 9 分   | きゅうふん                                      |
+| 5 分   | ごふん                           | 10 分  | じゅっ<mark>ぷ</mark>ん / じっ<mark>ぷ</mark>ん |
+
+---
+
+# 3 いま何時ですか。
+
+今何時ですか。
+
+<div class="grid grid-cols-3 justify-items-center gap-y-4">
+  <div>
+    <span>(1)</span>
+    <div>
+      <img src="/images/3-1-1.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2)</span>
+    <div>
+      <img src="/images/3-1-2.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(3)</span>
+    <div>
+      <img src="/images/3-1-3.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(4)</span>
+    <div>
+      <img src="/images/3-1-4.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(5)</span>
+    <div>
+      <img src="/images/3-1-5.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(6)</span>
+    <div>
+      <img src="/images/3-1-6.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+</div>
+
+---
+
+# 3 いま何時ですか。
+
+曜日
+
+| **曜日** | **英訳**  |
+| -------- | --------- |
+| 月曜日   | Monday    |
+| 火曜日   | Tuesday   |
+| 水曜日   | Wednesday |
+| 木曜日   | Thursday  |
+| 金曜日   | Friday    |
+| 土曜日   | Saturday  |
+| 日曜日   | Sunday    |
+
+---
+
+# 3 いま何時ですか。
+
+① ~ ③ の語を入れ替えて話してください。
+
+<p style="font-size: 1.5rem;">
+A: すみません。①<u>＜<ruby>場所<rt>ばしょ</rt></ruby>＞</u>ですか。<br />
+B: はい、そうです。<br />
+A: そちらは　なんじからなんじまでですか。<br />
+B: ②<u>＜<ruby>営業<rt>えいぎょう</rt></ruby>時間＞</u>です。<br />
+A: やすみは　なんようびですか。<br />
+B: ③<u>＜休み＞</u>です。<br />
+A: そうですか。どうもありがとうございます。
+</p>
+
+<p style="font-size: 1.5rem;">例：① <ruby>市民<rt>しみん</rt></ruby>図書館 ② 9:00-20:00 ③ 月曜日</p>
+<p style="font-size: 1.5rem;">(1) ① <ruby>郵便局<rt>ゆうびんきょく</rt></ruby> ② 8:00-17:00 ③ 土曜日と日曜日</p>
+
+---
+
+# 3 いま何時ですか。
+
+続く

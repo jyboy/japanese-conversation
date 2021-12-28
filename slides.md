@@ -2,8 +2,7 @@
 # try also 'default' to start simple
 theme: seriph
 title: 'Japanese Conversation'
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
+# random image from Unsplash
 background: https://source.unsplash.com/1600x1200/?japan
 # apply any windi css classes to the current slide
 class: 'text-center text-4xl'
@@ -22,9 +21,9 @@ fonts:
 # some information about the slides, markdown enabled
 info: |
   ## Japanese Conversation Topics
-  Presentation slides for Japanese beginners.
+  Presentation slides for Japanese beginners 🌸
 
-  Learn more at [Japanese Conversation](https://jp-conv.netlify.app)
+  Learn more at [Japanese Conversation](https://github.com/jyboy/japanese_conversation)
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -34,7 +33,7 @@ drawings:
 
 Japanese Conversation Topics
 
-<ruby>王<rt>おう</rt></ruby>WANG
+<ruby>王<rt>おう</rt></ruby> (WANG)
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -481,6 +480,13 @@ Japanese Conversation Topics
 ---
 
 # 3 いま何時ですか。
+
+<style>
+table {
+  font-size: 1.5rem;
+  line-height: 2.5rem;
+}
+</style>
 
 曜日
 

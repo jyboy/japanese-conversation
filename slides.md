@@ -408,7 +408,7 @@ Japanese Conversation Topics
 
 # 3 いま何時ですか。
 
-時にを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+時に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
 
 | **時** | **ひらがな** | **時** | **ひらがな** |
 | ------ | ------------ | ------ | ------------ |
@@ -422,7 +422,7 @@ Japanese Conversation Topics
 
 # 3 いま何時ですか。
 
-時にを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+時に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
 
 | **分** | **ひらがな**                     | **分** | **ひらがな**                                    |
 | ------ | -------------------------------- | ------ | ----------------------------------------------- |
@@ -487,7 +487,7 @@ table {
 }
 </style>
 
-曜日にを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+曜日に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
 
 | **曜日** | **英訳**  |
 | -------- | --------- |
@@ -508,9 +508,9 @@ table {
 <p style="font-size: 1.5rem;">
 A: すみません。①<u>＜<ruby>場所<rt>ばしょ</rt></ruby>＞</u>ですか。<br />
 B: はい、そうです。<br />
-A: そちらは　なんじからなんじまでですか。<br />
+A: そちらは なんじからなんじまでですか。<br />
 B: ②<u>＜<ruby>営業<rt>えいぎょう</rt></ruby>時間＞</u>です。<br />
-A: やすみは　なんようびですか。<br />
+A: やすみは なんようびですか。<br />
 B: ③<u>＜休み＞</u>です。<br />
 A: そうですか。どうもありがとうございます。
 </p>
@@ -528,7 +528,7 @@ table {
 }
 </style>
 
-<ruby>月<rt>つき</rt></ruby>にを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+<ruby>月<rt>つき</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
 
 | **月** | **ひらがな** | **月** | **ひらがな**   |
 | ------ | ------------ | ------ | -------------- |
@@ -549,7 +549,7 @@ table {
 }
 </style>
 
-<ruby>日<rt>ひ</rt></ruby>にちにを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+<ruby>日<rt>ひ</rt></ruby>にちに<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
 
 | **日** | **ひらがな** | **日** | **ひらがな**    |
 | ------ | ------------ | ------ | --------------- |
@@ -569,7 +569,7 @@ table {
 }
 </style>
 
-時間<ruby>詞<rt>し</rt></ruby>にちにを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+時間<ruby>詞<rt>し</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
 
 | **時間詞** | **ひらがな** | **時間詞** | **ひらがな** |
 | ---------- | ------------ | ---------- | ------------ |
@@ -586,8 +586,9 @@ table {
 次の<ruby>質問<rt>しつもん</rt></ruby>に答えてください。
 
 <p style="line-height: 4rem;">(1) クリスマス (Christmas) はいつですか。</p>
-<p style="line-height: 4rem;">(2) バレンタインデー (Valentine's Day) はいつですか。</p>
-<p style="line-height: 4rem;">(3) 〇〇さんのお誕生日はいつですか。</p>
+<p style="line-height: 4rem;">(2) サンクスギビング・デー (Thanksgiving Day) はいつですか。</p>
+<p style="line-height: 4rem;">(3) バレンタインデー (Valentine's Day) はいつですか。</p>
+<p style="line-height: 4rem;">(4) 〇〇さんのお誕生日はいつですか。</p>
 
 ---
 

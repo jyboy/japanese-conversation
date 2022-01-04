@@ -135,15 +135,15 @@ Japanese Conversation Topics
 はじめまして。①<u>＜名前＞</u>です。②<u>＜名前（日本語での読み方）＞</u>と読んでください。③<u>＜<ruby>所属<rt>しょぞく</rt></ruby>＞</u>です。④<u>＜<ruby>出身地<rt>しゅっしんち</rt></ruby>＞</u>のしゅっしんです。どうぞよろしくおねがいします。
 
 例：
-① <ruby>劉<rt>りゅう</rt></ruby>
-② りゅう
-③ 社員
+① <ruby>劉<rt>りゅう</rt></ruby> &emsp;
+② りゅう &emsp;
+③ 社員 &emsp;
 ④ <ruby>洛陽<rt>らくよう</rt></ruby> Luoyang
 
 あなた：
-① 王
-② おう
-③ 社員
+① 王 &emsp;
+② おう &emsp;
+③ 社員 &emsp;
 ④ 洛陽 Luoyang
 
 <div class="grid grid-cols-2 grid-cols-[1fr,2fr]">
@@ -483,12 +483,11 @@ Japanese Conversation Topics
 
 <style>
 table {
-  font-size: 1.5rem;
   line-height: 2.5rem;
 }
 </style>
 
-曜日
+曜日にを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
 
 | **曜日** | **英訳**  |
 | -------- | --------- |
@@ -516,11 +515,82 @@ B: ③<u>＜休み＞</u>です。<br />
 A: そうですか。どうもありがとうございます。
 </p>
 
-<p style="font-size: 1.5rem;">例：① <ruby>市民<rt>しみん</rt></ruby>図書館 ② 9:00-20:00 ③ 月曜日</p>
-<p style="font-size: 1.5rem;">(1) ① <ruby>郵便局<rt>ゆうびんきょく</rt></ruby> ② 8:00-17:00 ③ 土曜日と日曜日</p>
+<p style="font-size: 1.5rem;">例：① <ruby>市民<rt>しみん</rt></ruby>図書館 &emsp; ② 9:00-20:00 &emsp; ③ 月曜日</p>
+<p style="font-size: 1.5rem;">(1) ① <ruby>郵便局<rt>ゆうびんきょく</rt></ruby> &emsp; ② 8:00-17:00 &emsp; ③ 土曜日と日曜日</p>
 
 ---
 
 # 3 いま何時ですか。
+
+<style>
+table {
+  line-height: 2.5rem;
+}
+</style>
+
+<ruby>月<rt>つき</rt></ruby>にを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **月** | **ひらがな** | **月** | **ひらがな**   |
+| ------ | ------------ | ------ | -------------- |
+| 1 月   | いちがつ     | 7 月   | しちがつ       |
+| 2 月   | にがつ       | 8 月   | はちがつ       |
+| 3 月   | さんがつ     | 9 月   | くがつ         |
+| 4 月   | しがつ       | 10 月  | じゅうがつ     |
+| 5 月   | ごがつ       | 11 月  | じゅういちがつ |
+| 6 月   | ろくがつ     | 12 月  | じゅうにがつ   |
+
+---
+
+# 3 いま何時ですか。
+
+<style>
+table {
+  line-height: 2.5rem;
+}
+</style>
+
+<ruby>日<rt>ひ</rt></ruby>にちにを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **日** | **ひらがな** | **日** | **ひらがな**    |
+| ------ | ------------ | ------ | --------------- |
+| 1 日   | ついたち     | 6 日   | むいか          |
+| 2 日   | ふつか       | 7 日   | なのか / なぬか |
+| 3 日   | みっか       | 8 日   | ようか          |
+| 4 日   | よっか       | 9 日   | ここのか        |
+| 5 日   | いつか       | 10 日  | とおか          |
+
+---
+
+# 3 いま何時ですか。
+
+<style>
+table {
+  line-height: 2.5rem;
+}
+</style>
+
+時間<ruby>詞<rt>し</rt></ruby>にちにを<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **時間詞** | **ひらがな** | **時間詞** | **ひらがな** |
+| ---------- | ------------ | ---------- | ------------ |
+| 昨日       | きのう       | 来月       | らいげつ     |
+| 今日       | きょう       | 去年       | きょねん     |
+| 明日       | あした       | 今年       | ことし       |
+| 先月       | せんげつ     | 来年       | らいねん     |
+| 今月       | こんげん     |            |              |
+
+---
+
+# 3 いま何時ですか。
+
+次の<ruby>質問<rt>しつもん</rt></ruby>に答えてください。
+
+<p style="line-height: 4rem;">(1) クリスマス (Christmas) はいつですか。</p>
+<p style="line-height: 4rem;">(2) バレンタインデー (Valentine's Day) はいつですか。</p>
+<p style="line-height: 4rem;">(3) 〇〇さんのお誕生日はいつですか。</p>
+
+---
+
+# 4 どんな先生ですか。
 
 続く

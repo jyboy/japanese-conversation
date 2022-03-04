@@ -594,7 +594,9 @@ table {
 
 # 4 どんな先生ですか。
 
-| **色彩（しきさい）** | **英訳**    |
+<ruby>色彩<rt>しきさい</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **色彩** | **英訳**    |
 | -------------------- | ----------- |
 | 青い（あおい）       | blue        |
 | 赤い（あかい）       | red         |
@@ -642,7 +644,9 @@ table {
 
 # 4 どんな先生ですか。
 
-| **形容詞（けいようし）** | **反対語（はんたいご）** |
+<ruby>形容詞<rt>けいようし</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **形容詞** | **反対語（はんたいご）** |
 | ------------------------ | ------------------------ |
 | 大きい（おおきい）       | 小さい（ちいさい）       |
 | 長い（ながい）           | 短い（みじかい）         |
@@ -655,16 +659,45 @@ table {
 
 # 4 どんな先生ですか。
 
-| **形容動詞（けいようどうし）** | **英訳**  |
-| ------------------------------ | --------- |
-| 綺麗（きれい）                 | beautiful |
-| 静か（しずか）                 | quiet     |
-| 有名（ゆうめい）               | famous    |
-| 親切（しんせつ）               | kind      |
-| 元気（げんき）                 | spry      |
+<ruby>形容動詞<rt>けいようどうし</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>語彙<rt>ごい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>してください。
+
+| **形容動詞**       | **英訳**  |
+| ------------------ | --------- |
+| 綺麗（きれい）     | beautiful |
+| 賑やか（にぎやか） | crowded   |
+| 有名（ゆうめい）   | famous    |
+| 親切（しんせつ）   | kind      |
+| 元気（げんき）     | spry      |
 
 ---
 
 # 4 どんな先生ですか。
 
-続く
+絵を見て、答えてください。
+
+<div class="grid grid-cols-2">
+  <div>
+    <p style="font-size: 1.5rem;">(1) 李さんはどんな人ですか。</p>
+    <div class="flex justify-center">
+      <img src="/images/4-2-1.jpg" style="max-width: 15rem;" />
+    </div>
+  </div>
+  <div>
+    <p style="font-size: 1.5rem;">(2) 富士山はどんな山ですか。</p>
+    <div class="flex justify-center">
+      <img src="/images/4-2-2.jpg" style="max-width: 15rem;" />
+    </div>
+  </div>
+  <div>
+    <p style="font-size: 1.5rem;">(3) このおじいさんはどんな人ですか。</p>
+    <div class="flex justify-center">
+      <img src="/images/4-2-3.jpg" style="max-width: 15rem;" />
+    </div>
+  </div>
+  <div>
+    <p style="font-size: 1.5rem;">(4) この町はどんな町ですか。</p>
+    <div class="flex justify-center">
+      <img src="/images/4-2-4.jpg" style="max-width: 15rem;" />
+    </div>
+  </div>
+</div>

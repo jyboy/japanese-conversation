@@ -733,4 +733,135 @@ table {
 
 ---
 
-つづく
+# 5 食堂で朝ご飯を食べますか。
+
+何を食べますか。
+
+<div class="grid grid-cols-3 justify-items-center gap-y-4">
+  <div>
+    <span>(1)</span>
+    <div>
+      <img src="/images/5-1-1.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2)</span>
+    <div>
+      <img src="/images/5-1-2.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(3)</span>
+    <div>
+      <img src="/images/5-1-3.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(4)</span>
+    <div>
+      <img src="/images/5-1-4.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(5)</span>
+    <div>
+      <img src="/images/5-1-5.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(6)</span>
+    <div>
+      <img src="/images/5-1-6.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+</div>
+
+---
+
+# 5 食堂で朝ご飯を食べますか。
+
+何を飲みますか。
+
+<div class="grid grid-cols-3 justify-items-center gap-y-4">
+  <div>
+    <span>(1)</span>
+    <div>
+      <img src="/images/5-2-1.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2)</span>
+    <div>
+      <img src="/images/5-2-2.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(3)</span>
+    <div>
+      <img src="/images/5-2-3.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(4)</span>
+    <div>
+      <img src="/images/5-2-4.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(5)</span>
+    <div>
+      <img src="/images/5-2-5.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(6)</span>
+    <div>
+      <img src="/images/5-2-6.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+</div>
+
+---
+
+# 5 食堂で朝ご飯を食べますか。
+
+何を *V* ますか。
+
+<div class="grid grid-cols-3 justify-items-center gap-y-4">
+  <div>
+    <span>(1)</span>
+    <div>
+      <img src="/images/5-3-1.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2)</span>
+    <div>
+      <img src="/images/5-3-2.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(3)</span>
+    <div>
+      <img src="/images/5-3-3.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(4)</span>
+    <div>
+      <img src="/images/5-3-4.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(5)</span>
+    <div>
+      <img src="/images/5-3-5.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(6)</span>
+    <div>
+      <img src="/images/5-3-6.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+</div>

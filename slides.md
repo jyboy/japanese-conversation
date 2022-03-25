@@ -863,3 +863,51 @@ table {
     </div>
   </div>
 </div>
+
+---
+
+# 5 食堂で朝ご飯を食べますか。
+
+読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
+
+| **単語**               | **英訳**            |
+| ---------------------- | ------------------- |
+| サッカー               | soccer              |
+| バスケットボール       | basketball          |
+| 宿題（しゅくだい）     | homework            |
+| 会議（かいぎ）         | meeting; conference |
+| グランド               | playground          |
+| 体育館（たいいくかん） | gymnasium           |
+
+---
+
+# 5 食堂で朝ご飯を食べますか。
+
+「どこ」で「何」をしますか。
+
+<div class="grid grid-cols-2 justify-items-center gap-y-4">
+  <div>
+    <span>(1)</span>
+    <div>
+      <img src="/images/5-4-1.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2)</span>
+    <div>
+      <img src="/images/5-4-2.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(3)</span>
+    <div>
+      <img src="/images/5-4-3.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(4)</span>
+    <div>
+      <img src="/images/5-4-4.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+</div>

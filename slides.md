@@ -929,4 +929,30 @@ table {
 
 # 6 いつ中国へ来ましたか。
 
-つづく
+もう V ましたか。
+
+- はい、もう V ました。
+- いいえ、まだです。
+
+<hr class="my-8" />
+
+<ruby>質問<rt>しつもん</rt></ruby>に答えてください。
+
+<p style="font-size: 1.5rem;">(1) もう<ruby>宿題<rt>しゅくだい</rt></ruby>をしましたか。</p>
+<p style="font-size: 1.5rem;">(2) もう王さんに会いましたか。</p>
+
+---
+
+# 6 いつ中国へ来ましたか。
+
+① ~ ③ の語を入れ替えて話してください。
+
+<p style="font-size: 1.5rem;">A: B さん、①<u>土曜日</u>、どこかへ行きますか。</p>
+<p style="font-size: 1.5rem;">B: はい、②<u><ruby>公園<rt>こうえん</rt></ruby></u>へ行きます。</p>
+<p style="font-size: 1.5rem;">A: 私も②<u>公園</u>へ行くんです。</p>
+<p style="font-size: 1.5rem;">B: そうですか。じゃあ、一緒に行きませんか。</p>
+<p style="font-size: 1.5rem;">A: いいですね。じゃあ、③<u><ruby>地下鉄<rt>ちかてつ</rt></ruby></u>で行きましょう。</p>
+
+(1) ① 明日 &emsp; ② <ruby>図書館<rt>としょかん</rt></ruby> &emsp; ③ バス
+
+(2) ① <ruby>来月<rt>らいげつ</rt></ruby> &emsp; ② <ruby>上海<rt>しゃんはい</rt></ruby> &emsp; ③ <ruby>飛行機<rt>ひこうき</rt></ruby>

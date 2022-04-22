@@ -929,10 +929,49 @@ table {
 
 # 6 いつ中国へ来ましたか。
 
+どこへ行きますか。
+
+<div class="grid grid-cols-2 justify-items-center gap-y-4">
+  <div>
+    <span>(1)</span>
+    <div>
+      <img src="/images/6-1-1.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2)</span>
+    <div>
+      <img src="/images/6-1-2.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(3)</span>
+    <div>
+      <img src="/images/6-1-3.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(4)</span>
+    <div>
+      <img src="/images/6-1-4.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+</div>
+
+---
+
+# 6 いつ中国へ来ましたか。
+
+<style>
+.slidev-layout blockquote {
+  font-size: 1.25rem;
+}
+</style>
+
 もう V ましたか。
 
-- はい、もう V ました。
-- いいえ、まだです。
+> - はい、もう V ました。
+> - いいえ、まだです。
 
 <hr class="my-8" />
 
@@ -940,6 +979,46 @@ table {
 
 <p style="font-size: 1.5rem;">(1) もう<ruby>宿題<rt>しゅくだい</rt></ruby>をしましたか。</p>
 <p style="font-size: 1.5rem;">(2) もう王さんに会いましたか。</p>
+
+---
+
+# 6 いつ中国へ来ましたか。
+
+<style>
+.slidev-layout blockquote {
+  font-size: 1.25rem;
+}
+</style>
+
+V ませんか。
+
+> - いいですね。ええ、V ましょう。
+> - ありがとうございます。でもちょっと<ruby>都合<rt>つごう</rt></ruby>が悪いんです。
+
+<hr class="my-8" />
+
+「一緒に V ませんか」と<ruby>誘<rt>さそ</rt></ruby>ってください。
+
+<div class="flex justify-around">
+  <div>
+    <span>(1)</span>
+    <div>
+      <img src="/images/6-2-1.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2)</span>
+    <div>
+      <img src="/images/6-2-2.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(3)</span>
+    <div>
+      <img src="/images/6-2-3.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+</div>
 
 ---
 

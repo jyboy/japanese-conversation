@@ -1056,13 +1056,75 @@ V ませんか。
 
 # 7 りんごをください
 
+モデル会話を<ruby>参考<rt>さんこう</rt></ruby>にして、会話練習をしてください。
+
+<div class="grid grid-cols-3 justify-items-center gap-y-4">
+  <div>
+    <span style="font-size: 1.5rem;">(1) 150円 / 1個</span>
+    <div>
+      <img src="/images/7-1-1.jpg" style="max-height: 10rem;" />
+    </div>
+    <span style="font-size: 1.5rem;">赤い / りんご / ４個</span>
+  </div>
+  <div>
+    <span style="font-size: 1.5rem;">(2) 30円 / 1本</span>
+    <div>
+      <img src="/images/7-1-2.jpg" style="max-height: 10rem;" />
+    </div>
+    <span style="font-size: 1.5rem;">黄色い / バナナ / 3本</span>
+  </div>
+  <div>
+    <span style="font-size: 1.5rem;">(3) 350円 / 1kg</span>
+    <div>
+      <img src="/images/7-1-3.jpg" style="max-height: 10rem;" />
+    </div>
+    <span style="font-size: 1.5rem;">小さい / みかん / 2kg</span>
+  </div>
+  <div>
+    <span style="font-size: 1.5rem;">(4) 60円 / 一つ</span>
+    <div>
+      <img src="/images/7-1-4.jpg" style="max-height: 10rem;" />
+    </div>
+    <span style="font-size: 1.5rem;">青い / 消しゴム / 二つ</span>
+  </div>
+  <div>
+    <span style="font-size: 1.5rem;">(5) 140円 / 1冊</span>
+    <div>
+      <img src="/images/7-1-5.jpg" style="max-height: 10rem;" />
+    </div>
+    <span style="font-size: 1.5rem;">白い / ノート / 2冊</span>
+  </div>
+  <div>
+    <span style="font-size: 1.5rem;">(6) 90円 / 1本</span>
+    <div>
+      <img src="/images/7-1-6.jpg" style="max-height: 10rem;" />
+    </div>
+    <span style="font-size: 1.5rem;">青い / ゴールペン / 3本</span>
+  </div>
+</div>
+
+---
+
+# 7 りんごをください
+
 読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
 
-| **単語**               | **英訳** |
-| ---------------------- | -------- |
-| メニュー               | menu     |
-| 料理（りょうり）       |          |
-| 定食（ていしょく）     |          |
-| 注文（ちゅうもん）     |          |
-| 待ちます（まちます）   |          |
-| 頼みます（たのみます） |          |
+| **単語**               | **英訳**          |
+| ---------------------- | ----------------- |
+| メニュー               | menu              |
+| 料理（りょうり）       | dish              |
+| 定食（ていしょく）     | set meal          |
+| 注文（ちゅうもん）     | order             |
+| 待ちます（まちます）   | wait              |
+| 頼みます（たのみます） | call for; rely on |
+
+---
+
+# 7 りんごをください
+
+A: 一緒に、そこのカフェで食べませんか。
+B: いいですね。そうしましょう。
+A: B さんは、何にしますか。
+B: そうですね。____にします。A さんは。
+A: 私は / も____にします。
+B: じゃ、注文します。すみません。____をください。

@@ -1122,9 +1122,40 @@ V ませんか。
 
 # 7 りんごをください
 
-A: 一緒に、そこのカフェで食べませんか。
-B: いいですね。そうしましょう。
-A: B さんは、何にしますか。
-B: そうですね。____にします。A さんは。
-A: 私は / も____にします。
+二人で話してください。
+
+<p style="font-size: 1.5rem;">
+A: 一緒に、そこのカフェで食べませんか。<br />
+B: いいですね。そうしましょう。<br />
+A: B さんは、何にしますか。<br />
+B: そうですね。____にします。A さんは。<br />
+A: 私は / も____にします。<br />
 B: じゃ、注文します。すみません。____をください。
+</p>
+
+<div class="flex justify-around">
+  <div>
+    <span>カレー</span>
+    <div>
+      <img src="/images/7-2-1.jpg" style="max-height: 7.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>サンドイッチ</span>
+    <div>
+      <img src="/images/7-2-2.jpg" style="max-height: 7.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>アスクリーム</span>
+    <div>
+      <img src="/images/7-2-3.jpg" style="max-height: 7.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>チーズケーキ</span>
+    <div>
+      <img src="/images/7-2-4.jpg" style="max-height: 7.25rem;" />
+    </div>
+  </div>
+</div>

@@ -1099,7 +1099,7 @@ V ませんか。
     <div>
       <img src="/images/7-1-6.jpg" style="max-height: 10rem;" />
     </div>
-    <span style="font-size: 1.5rem;">青い / ゴールペン / 3本</span>
+    <span style="font-size: 1.5rem;">青い / ボールペン / 3本</span>
   </div>
 </div>
 
@@ -1135,27 +1135,87 @@ B: じゃ、注文します。すみません。____をください。
 
 <div class="flex justify-around">
   <div>
-    <span>カレー</span>
+    <span style="font-size: 1.5rem;">カレー</span>
     <div>
       <img src="/images/7-2-1.jpg" style="max-height: 7.25rem;" />
     </div>
   </div>
   <div>
-    <span>サンドイッチ</span>
+    <span style="font-size: 1.5rem;">サンドイッチ</span>
     <div>
       <img src="/images/7-2-2.jpg" style="max-height: 7.25rem;" />
     </div>
   </div>
   <div>
-    <span>アスクリーム</span>
+    <span style="font-size: 1.5rem;">アスクリーム</span>
     <div>
       <img src="/images/7-2-3.jpg" style="max-height: 7.25rem;" />
     </div>
   </div>
   <div>
-    <span>チーズケーキ</span>
+    <span style="font-size: 1.5rem;">チーズケーキ</span>
     <div>
       <img src="/images/7-2-4.jpg" style="max-height: 7.25rem;" />
     </div>
   </div>
 </div>
+
+---
+
+# 向こうに池があります
+
+<style>
+table {
+  line-height: 2.5rem;
+}
+</style>
+
+読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
+
+| **単語**             | **英訳**        |
+| -------------------- | --------------- |
+| 公園（こうえん）     | park            |
+| 並木道（なみきみち） | tree-lined road |
+| 原産（げんさん）     | origin          |
+| 優雅（ゆうが）       | elegant         |
+| 向こう（むこう）     | over there      |
+| 咲く（さく）         | bloom           |
+| 乗る（のる）         | go by           |
+
+---
+
+# 向こうに池があります
+
+<style>
+table {
+  line-height: 2.5rem;
+}
+</style>
+
+読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
+
+| **単語**       | **英訳**         |
+| -------------- | ---------------- |
+| 槐（えんじゅ） | sophora japonica |
+| 枝（えだ）     | branch           |
+| 鳥（とり）     | bird             |
+| 鵲（かささぎ） | magpie           |
+| 池（いけ）     | pond             |
+| 蓮（はす）     | lotus            |
+| 舟（ふね）     | boat             |
+
+---
+
+# 向こうに池があります
+
+次の会話を練習してください。
+
+<p style="font-size: 1.5rem;">
+A: この公園には素敵な並木道がありますね。この大きな木は何のきです。<br />
+B: 槐です。中国原産のきです。あっ、あそこ、あの枝に尾のながい鳥がいますね。「かささぎ」です。<br />
+A: あれが鵲ですか。初めてみました。優雅な鳥ですね。<br />
+B: 向こうに池があります。行きさせんか。池に蓮がたくさん咲いていますよ。<br />
+A: いいですね、行きましょう。本当に蓮の花がたくさん咲いていますね。あれ、あそこに人がおおぜいいますよ。<br />
+B: 舟に乗る人たちです。ほら、舟が来ました。<br />
+A: 私たちも、船に乗りませんか。
+</p>

@@ -146,7 +146,7 @@ Japanese Conversation Topics
 ③ 社員 &emsp;
 ④ 洛陽 Luoyang
 
-<div class="grid grid-cols-2 grid-cols-[1fr,2fr]">
+<div class="grid grid-cols-[1fr,2fr]">
   <div class="justify-self-center">
     <img src="/images/0-3-1.jpeg" style="max-width: 12rem;" />
   </div>
@@ -1219,3 +1219,53 @@ A: いいですね、行きましょう。本当に<ruby>蓮<rt>はす</rt></rub
 B: <ruby>舟<rt>ふね</rt></ruby>に乗る人たちです。ほら、<ruby>舟<rt>ふね</rt></ruby>が来ました。<br />
 A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 </p>
+
+---
+
+# 8 向こうに池があります
+
+<style>
+.slidev-layout span {
+  font-size: 1.5rem;
+  line-height: 1.875rem;
+}
+</style>
+
+この<ruby>町<rt>まち</rt></ruby>にが何がありますか。
+
+<div class="grid grid-cols-[auto,200px] gap-x-10">
+  <div>
+    <img src="/images/8-1-1.jpg" />
+  </div>
+  <div class="flex flex-col">
+    <span><ruby>駅<rt>えき</rt></ruby></span>
+    <span><ruby>列車<rt>れっしゃ</rt></ruby></span>
+    <span><ruby>自動車<rt>じどうしゃ</rt></ruby></span>
+    <span><ruby>交番<rt>こうばん</rt></ruby></span>
+    <span><ruby>病院<rt>びょういん</rt></ruby></span>
+    <span><ruby>学校<rt>がっこう</rt></ruby></span>
+    <span><ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby></span>
+    <span><ruby>銀行<rt>ぎんこう</rt></ruby></span>
+    <span><ruby>花屋<rt>はなや</rt></ruby></span>
+    <span><ruby>公園<rt>こうえん</rt></ruby></span>
+    <span>ガソリンスタンド</span>
+    <span><ruby>信号<rt>しんごう</rt></ruby></span>
+    <span><ruby>橋<rt>はし</rt></ruby></span>
+    <span><ruby>川<rt>かわ</rt></ruby></span>
+  </div>
+</div>
+
+---
+
+# 8 向こうに池があります
+
+読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
+
+<div class="grid grid-cols-2">
+  <div>
+    <img src="/images/8-2-1.png" />
+  </div>
+  <div>
+    <img src="/images/8-2-2.png" style="max-width: 87%;" />
+  </div>
+</div>

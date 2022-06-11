@@ -1210,7 +1210,7 @@ table {
 
 次の会話を練習してください。
 
-<p style="font-size: 1.5rem;">
+<p style="font-size: 1.625rem;">
 A: この公園には<ruby>素敵<rt>すてき</rt></ruby>な<ruby>並木<rt>なみき</rt></ruby><ruby>道<rt>みち</rt></ruby>がありますね。この大きな木は何の木です。<br />
 B: <ruby>槐<rt>えんじゅ</rt></ruby>です。中国<ruby>原産<rt>げんさん</rt></ruby>の木です。あっ、あそこ、あの<ruby>枝<rt>えだ</rt></ruby>に<ruby>尾<rt>お</rt></ruby>のながい鳥がいますね。「かささぎ」です。<br />
 A: あれが<ruby>鵲<rt>かささぎ</rt></ruby>ですか。初めてみました。<ruby>優雅<rt>ゆうが</rt></ruby>な鳥ですね。<br />
@@ -1268,4 +1268,56 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
   <div>
     <img src="/images/8-2-2.png" style="max-width: 87%;" />
   </div>
+</div>
+
+---
+
+# 8 向こうに池があります
+
+<style>
+.slidev-layout span {
+  font-size: 1.5rem;
+  line-height: 1.875rem;
+}
+.slidev-layout .test {
+  position: absolute;
+  top: 70px;
+  background-color: #fff;
+  opacity: .3;
+}
+</style>
+
+<div class="grid grid-cols-[auto,200px] gap-x-10">
+  <div>
+    <img src="/images/8-3-1.jpg" />
+  </div>
+  <div class="flex flex-col">
+    <span>テーブル</span>
+    <span><ruby>窓<rt>まど</rt></ruby></span>
+    <span>木</span>
+    <span><ruby>猿<rt>さる</rt></ruby></span>
+    <span>鳥</span>
+    <span>犬</span>
+    <span>ボール</span>
+    <span><ruby>眼鏡<rt>めがね</rt></ruby></span>
+    <span>傘</span>
+    <span><ruby>電話<rt>でんわ</rt></ruby></span>
+    <span><ruby>新聞<rt>しんぶん</rt></ruby></span>
+    <span>ボールペン</span>
+  </div>
+</div>
+
+<div class="test">
+  <div>(1/12)　<ruby>黒<rt>くろ</rt></ruby>い犬はどこにいますか。</div>
+  <div>(2/12)　<ruby>赤<rt>あか</rt></ruby>いボールはどこにありますか。</div>
+  <div>(3/12)　<ruby>窓<rt>まど</rt></ruby>はどこにありますか。</div>
+  <div>(4/12)　木はどこにありますか。</div>
+  <div>(5/12)　<ruby>猿<rt>さる</rt></ruby>はどこにいますか。</div>
+  <div>(6/12)　鳥はどこにいますか。</div>
+  <div>(7/12)　ボールはどこにありますか。</div>
+  <div>(8/12)　<ruby>眼鏡<rt>めがね</rt></ruby>はどこにありますか。</div>
+  <div>(9/12)　<ruby>電話<rt>でんわ</rt></ruby>はどこにありますか。</div>
+  <div>(10/12)　傘と<ruby>新聞<rt>しんぶん</rt></ruby>はどこにありますか。</div>
+  <div>(11/12)　ボールペンはどこにありますか。</div>
+  <div>(12/12)　テーブルはどこにありますか。</div>
 </div>

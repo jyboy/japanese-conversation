@@ -1279,12 +1279,6 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
   font-size: 1.5rem;
   line-height: 1.875rem;
 }
-.slidev-layout .test {
-  position: absolute;
-  top: 70px;
-  background-color: #fff;
-  opacity: .3;
-}
 </style>
 
 <div class="grid grid-cols-[auto,200px] gap-x-10">
@@ -1307,17 +1301,17 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
   </div>
 </div>
 
-<div class="test">
-  <div>(1/12)　<ruby>黒<rt>くろ</rt></ruby>い犬はどこにいますか。</div>
-  <div>(2/12)　<ruby>赤<rt>あか</rt></ruby>いボールはどこにありますか。</div>
-  <div>(3/12)　<ruby>窓<rt>まど</rt></ruby>はどこにありますか。</div>
-  <div>(4/12)　木はどこにありますか。</div>
-  <div>(5/12)　<ruby>猿<rt>さる</rt></ruby>はどこにいますか。</div>
-  <div>(6/12)　鳥はどこにいますか。</div>
-  <div>(7/12)　ボールはどこにありますか。</div>
-  <div>(8/12)　<ruby>眼鏡<rt>めがね</rt></ruby>はどこにありますか。</div>
-  <div>(9/12)　<ruby>電話<rt>でんわ</rt></ruby>はどこにありますか。</div>
-  <div>(10/12)　傘と<ruby>新聞<rt>しんぶん</rt></ruby>はどこにありますか。</div>
-  <div>(11/12)　ボールペンはどこにありますか。</div>
-  <div>(12/12)　テーブルはどこにありますか。</div>
+<div class="floating-layer">
+  <div v-click>(1/12)　<ruby>黒<rt>くろ</rt></ruby>い犬はどこにいますか。</div>
+  <div v-click>(2/12)　<ruby>赤<rt>あか</rt></ruby>いボールはどこにありますか。</div>
+  <div v-click>(3/12)　<ruby>窓<rt>まど</rt></ruby>はどこにありますか。</div>
+  <div v-click>(4/12)　木はどこにありますか。</div>
+  <div v-click>(5/12)　<ruby>猿<rt>さる</rt></ruby>はどこにいますか。</div>
+  <div v-click>(6/12)　鳥はどこにいますか。</div>
+  <div v-click>(7/12)　ボールはどこにありますか。</div>
+  <div v-click>(8/12)　<ruby>眼鏡<rt>めがね</rt></ruby>はどこにありますか。</div>
+  <div v-click>(9/12)　<ruby>電話<rt>でんわ</rt></ruby>はどこにありますか。</div>
+  <div v-click>(10/12)　傘と<ruby>新聞<rt>しんぶん</rt></ruby>はどこにありますか。</div>
+  <div v-click>(11/12)　ボールペンはどこにありますか。</div>
+  <div v-click>(12/12)　テーブルはどこにありますか。</div>
 </div>

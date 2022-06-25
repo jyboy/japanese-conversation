@@ -1336,16 +1336,16 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 
 # 9 四川料理が好きですか。
 
-<img src="/images/9-1-1.png" />
+<img src="/images/9-1-1.jpg" />
 
 ---
 
 # 9 四川料理が好きですか。
 
-<img src="/images/9-1-2.png" />
+<img src="/images/9-1-2.jpg" />
 
 ---
 
 # 9 四川料理が好きですか。
 
-<img src="/images/9-1-3.png" />
+<img src="/images/9-1-3.jpg" />

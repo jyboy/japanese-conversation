@@ -1342,10 +1342,86 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 
 # 9 四川料理が好きですか。
 
-<img src="/images/9-1-2.jpg" style="height: 90%;" />
+<style>
+.slidev-layout table {
+  margin-top: 1.25rem;
+}
+.slidev-layout td {
+  padding: 0.25rem 0;
+  text-align: center;
+}
+</style>
+
+二人で話してください。
+
+<div class="grid grid-cols-[40px,auto]" style="font-size: 1.5rem;">
+  <span>(1)</span>
+  <div>
+    A: 〇〇さんは、スポーツの中で何が<ruby>一番<rt>いちばん</rt></ruby>好きですか。<br />
+    B:スポーツの中で〇〇が<ruby>一番<rt>いちばん</rt></ruby>好きです。
+  </div>
+</div>
+
+<div class="grid grid-cols-[40px,auto]" style="font-size: 1.5rem;">
+  <span>(2)</span>
+  <div>
+    A:〇〇と〇〇では、どちらが好きですか。<br />
+    B:〇〇より〇〇の方が好きです。<br />
+    /　〇〇も〇〇も、どちらも好きじゃありません。<br />
+    /　〇〇も〇〇も、どちらも好きです。
+  </div>
+</div>
+
+<table style="font-size: 1.5rem;">
+  <tbody>
+    <tr>
+      <td>テニス</td>
+      <td>サッカー</td>
+      <td>バレーボール</td>
+    </tr>
+    <tr>
+      <td>バスケットボール</td>
+      <td>スケート</td>
+      <td>ジョギング</td>
+    </tr>
+    <tr>
+      <td><ruby>卓球<rt>たっきゅう</rt></ruby></td>
+      <td><ruby>水泳<rt>すいえい</rt></ruby></td>
+      <td><ruby>野球<rt>やきゅう</rt></ruby></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 # 9 四川料理が好きですか。
 
-<img src="/images/9-1-3.jpg" style="height: 90%;" />
+① ~ ② の語を入れ替えて話してください。
+
+<p style="font-size: 1.5rem;">A: ①<u>日本料理</u>が好きですか。</p>
+<p style="font-size: 1.5rem;">B: ええ、好きです。</p>
+<p style="font-size: 1.5rem;">A: じゃ、日曜日いっしょに②<u>食べ</u>ませんか。</p>
+<p style="font-size: 1.5rem;">B: いいですね。</p>
+
+(1) ① テニス &emsp;　② します
+
+(2) ① コーヒー &emsp;　② 飲みます
+
+(3) ① 絵　&emsp; ② <ruby>美術<rt>びじゅつ</rt></ruby><ruby>館<rt>かん</rt></ruby>へ行きます
+
+---
+
+# 9 四川料理が好きですか。
+
+① ~ ② の語を入れ替えて話してください。
+
+<p style="font-size: 1.5rem;">A:日本料理が好きですか。</p>
+<p style="font-size: 1.5rem;">B:いいえ、あまり②____</p>
+<p style="font-size: 1.5rem;">A:そうですか。<ruby>残念<rt>ざんねん</rt></ruby>です。</p>
+<p style="font-size: 1.5rem;">B:すみません。</p>
+
+(1) ① サッカー &emsp;　②
+
+(2) ① ビール &emsp;　②
+
+(3) ① <ruby>映画<rt>えいが</rt></ruby> &emsp;　②

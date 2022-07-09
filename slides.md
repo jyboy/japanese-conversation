@@ -1375,19 +1375,19 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 <table style="font-size: 1.5rem;">
   <tbody>
     <tr>
-      <td>テニス</td>
-      <td>サッカー</td>
-      <td>バレーボール</td>
+      <td>🎾 テニス</td>
+      <td>⚽ サッカー</td>
+      <td>🏐 バレーボール</td>
     </tr>
     <tr>
-      <td>バスケットボール</td>
-      <td>スケート</td>
-      <td>ジョギング</td>
+      <td>🏀 バスケットボール</td>
+      <td>⛸️ スケート</td>
+      <td>🏃 ジョギング</td>
     </tr>
     <tr>
-      <td><ruby>卓球<rt>たっきゅう</rt></ruby></td>
-      <td><ruby>水泳<rt>すいえい</rt></ruby></td>
-      <td><ruby>野球<rt>やきゅう</rt></ruby></td>
+      <td>🏓 <ruby>卓球<rt>たっきゅう</rt></ruby></td>
+      <td>🏊 <ruby>水泳<rt>すいえい</rt></ruby></td>
+      <td>⚾ <ruby>野球<rt>やきゅう</rt></ruby></td>
     </tr>
   </tbody>
 </table>
@@ -1425,3 +1425,24 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 (2) ① ビール &emsp;　②
 
 (3) ① <ruby>映画<rt>えいが</rt></ruby> &emsp;　②
+
+---
+
+# 9 四川料理が好きですか。
+
+読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
+
+| **単語**         | **英訳**  |
+| ---------------- | --------- |
+| 嫌い（きらい）   | hate      |
+| 下手（へた）     | poor      |
+| 上手（じょうず） | good (at) |
+| 得意（とくい）   | good (at) |
+| まあまあ         | not bad   |
+| 時々（ときどき） | sometimes |
+
+---
+
+# 9 四川料理が好きですか。
+
+つづく

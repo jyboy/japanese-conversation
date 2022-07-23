@@ -1367,8 +1367,8 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
   <div>
     A:〇〇と〇〇では、どちらが好きですか。<br />
     B:〇〇より〇〇の方が好きです。<br />
-    /　〇〇も〇〇も、どちらも好きじゃありません。<br />
-    /　〇〇も〇〇も、どちらも好きです。
+    / 〇〇も〇〇も、どちらも好きじゃありません。<br />
+    / 〇〇も〇〇も、どちらも好きです。
   </div>
 </div>
 
@@ -1403,9 +1403,9 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 <p style="font-size: 1.5rem;">A: じゃ、日曜日いっしょに②<u>食べ</u>ませんか。</p>
 <p style="font-size: 1.5rem;">B: いいですね。</p>
 
-(1) ① テニス &emsp;　② します
+(1) ① テニス &emsp; ② します
 
-(2) ① コーヒー &emsp;　② 飲みます
+(2) ① コーヒー &emsp; ② 飲みます
 
 (3) ① 絵　&emsp; ② <ruby>美術<rt>びじゅつ</rt></ruby><ruby>館<rt>かん</rt></ruby>へ行きます
 
@@ -1415,16 +1415,16 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 
 ① ~ ② の語を入れ替えて話してください。
 
-<p style="font-size: 1.5rem;">A:日本料理が好きですか。</p>
-<p style="font-size: 1.5rem;">B:いいえ、あまり②____</p>
-<p style="font-size: 1.5rem;">A:そうですか。<ruby>残念<rt>ざんねん</rt></ruby>です。</p>
-<p style="font-size: 1.5rem;">B:すみません。</p>
+<p style="font-size: 1.5rem;">A: ①<u>日本料理</u>が好きですか。</p>
+<p style="font-size: 1.5rem;">B: いいえ、あまり②____</p>
+<p style="font-size: 1.5rem;">A: そうですか。<ruby>残念<rt>ざんねん</rt></ruby>です。</p>
+<p style="font-size: 1.5rem;">B: すみません。</p>
 
-(1) ① サッカー &emsp;　②
+(1) ① サッカー &emsp; ②
 
-(2) ① ビール &emsp;　②
+(2) ① ビール &emsp; ②
 
-(3) ① <ruby>映画<rt>えいが</rt></ruby> &emsp;　②
+(3) ① <ruby>映画<rt>えいが</rt></ruby> &emsp; ②
 
 ---
 
@@ -1445,4 +1445,14 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 
 # 9 四川料理が好きですか。
 
-つづく
+① ~ ④ の語を入れ替えて話してください。
+
+<p style="font-size: 1.5rem;">A: B さんは①テニスをしませんね。②テニスが嫌いですか。</p>
+<p style="font-size: 1.5rem;">B: はい、①テニスはあまり好きではありません。</p>
+<p style="font-size: 1.5rem;">A: そうですか。じゃ③スポーツの中で何が好きですか。</p>
+<p style="font-size: 1.5rem;">B: ④<ruby>卓球<rt>たっきゅう</rt></ruby>がいちばん好きです。</p>
+
+<p style="font-size: 1.75rem;">(1) ① コーヒー &emsp; ② 飲みます &emsp; ③ 飲み物 &emsp; ④ お茶</p>
+<p style="font-size: 1.75rem;">(2) ① お寿司 &emsp; ② 食べます &emsp; ③ 日本料理 &emsp; ④ <ruby>天<rt>てん</rt></ruby>ぷら</p>
+<p style="font-size: 1.75rem;">(3) ① <ruby>恋愛<rt>れんあい</rt></ruby>映画 &emsp; ② 見ます &emsp; ③ 映画 &emsp; ④ アクション映画</p>
+<p style="font-size: 1.75rem;">(4) ① ジェー・ポープ &emsp; ② 聞きます &emsp; ③ <ruby>音楽<rt>おんがく</rt></ruby> &emsp; ④ クラシク</p>

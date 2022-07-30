@@ -1447,12 +1447,62 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 
 ① ~ ④ の語を入れ替えて話してください。
 
-<p style="font-size: 1.5rem;">A: B さんは①テニスをしませんね。②テニスが嫌いですか。</p>
-<p style="font-size: 1.5rem;">B: はい、①テニスはあまり好きではありません。</p>
-<p style="font-size: 1.5rem;">A: そうですか。じゃ③スポーツの中で何が好きですか。</p>
-<p style="font-size: 1.5rem;">B: ④<ruby>卓球<rt>たっきゅう</rt></ruby>がいちばん好きです。</p>
+<p style="font-size: 1.5rem;">A: B さんは①<u>テニス</u>を②<u>し</u>ませんね。①<u>テニス</u>が嫌いですか。</p>
+<p style="font-size: 1.5rem;">B: はい、①<u>テニス</u>はあまり好きではありません。</p>
+<p style="font-size: 1.5rem;">A: そうですか。じゃ③<u>スポーツ</u>の中で何が好きですか。</p>
+<p style="font-size: 1.5rem;">B: ④<ruby><u>卓球</u><rt>たっきゅう</rt></ruby>がいちばん好きです。</p>
 
 <p style="font-size: 1.75rem;">(1) ① コーヒー &emsp; ② 飲みます &emsp; ③ 飲み物 &emsp; ④ お茶</p>
 <p style="font-size: 1.75rem;">(2) ① お寿司 &emsp; ② 食べます &emsp; ③ 日本料理 &emsp; ④ <ruby>天<rt>てん</rt></ruby>ぷら</p>
 <p style="font-size: 1.75rem;">(3) ① <ruby>恋愛<rt>れんあい</rt></ruby>映画 &emsp; ② 見ます &emsp; ③ 映画 &emsp; ④ アクション映画</p>
 <p style="font-size: 1.75rem;">(4) ① ジェー・ポープ &emsp; ② 聞きます &emsp; ③ <ruby>音楽<rt>おんがく</rt></ruby> &emsp; ④ クラシク</p>
+
+---
+
+# 10 <ruby>会話<rt>かいわ</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>
+
+<style>
+  .slidev-layout table {
+    margin-top: 1.25rem;
+    font-size: 1.5rem;
+  }
+  .slidev-layout td {
+    padding: 0.25rem 0;
+    text-align: center;
+  }
+</style>
+
+次の王さんの<ruby>時間割<rt>じかんわり</rt></ruby>を見て答えてください。
+
+<p style="font-size: 1.5rem;">1. 日本語<ruby>会話<rt>かいわ</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は何<ruby>曜日<rt>ようび</rt></ruby>ですか。</p>
+<p style="font-size: 1.5rem;">2. 日本語<ruby>会話<rt>かいわ</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は何時から何時までですか。</p>
+<p style="font-size: 1.5rem;">3. <ruby>精読<rt>せいどく</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は何<ruby>曜日<rt>ようび</rt></ruby>ですか。</p>
+<p style="font-size: 1.5rem;">4. <ruby>聴解<rt>ちょうかい</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は何時から何時までですか。</p>
+
+|               | 月曜日                               | 火曜日                                 |
+| ------------- | ------------------------------------ | -------------------------------------- |
+| 8:00 ~ 9:35   | <ruby>精読<rt>せいどく</rt></ruby>   | 英語                                   |
+| 9:55 ~ 11:30  | <ruby>聴解<rt>ちょうかい</rt></ruby> | <ruby>精読<rt>せいどく</rt></ruby>     |
+| 13:00 ~ 14:35 | <ruby>体育<rt>たいいく</rt></ruby>   | 日本語<ruby>会話<rt>かいわ</rt></ruby> |
+
+---
+
+# 10 <ruby>会話<rt>かいわ</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>
+
+<style>
+  .slidev-layout img {
+    width: 70%;
+  }
+</style>
+
+絵を見て先生の問題を答えてください。
+
+例：赤い<ruby>傘<rt>かさ</rt></ruby>はどこにありますか。
+
+<div class="flex justify-center">
+  <img src="/images/9-2-1.jpg" />
+</div>
+
+---
+
+つづく

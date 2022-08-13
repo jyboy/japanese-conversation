@@ -1505,4 +1505,34 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 
 ---
 
-つづく
+# <ruby>二胡<rt>にこ</rt></ruby>ができますか。
+
+読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
+
+| **単語**               | **英訳**                             |
+| ---------------------- | ------------------------------------ |
+| 二胡（にこ）           | erhu (a Chinese stringed instrument) |
+| 伝統的（でんとうてき） | traditional                          |
+| 楽器（がっき）         | musical instrument                   |
+| ギター                 | guitar                               |
+| バイオリン             | violin                               |
+| ピアノ                 | piano                                |
+| ミニコンサート         | mini concert                         |
+
+---
+
+# <ruby>二胡<rt>にこ</rt></ruby>ができますか。
+
+次の会話を練習してください。
+
+<p style="font-size: 1.625rem;">
+<ruby>若狭<rt>わかさ</rt></ruby>：王さん、<ruby>音楽<rt>おんがく</rt></ruby>が好きですね。<ruby>二胡<rt>にこ</rt></ruby>ができますか。<br />
+王：はい、できます。<br />
+<ruby>若狭<rt>わかさ</rt></ruby>：ああ、よかった。<ruby>伝統的<rt>でんとうてき</rt></ruby>な<ruby>二胡<rt>にこ</rt></ruby>を聞くチャンスがありません。<ruby>暇<rt>ひま</rt></ruby>なとき、<ruby>弾<rt>ひ</rt></ruby>いてもらえませんか。
+王：いいですよ。<ruby>喜<rt>よろこ</rt></ruby>んで。<br />
+<ruby>若狭<rt>わかさ</rt></ruby>：いつから<ruby>始<rt>はじ</rt></ruby>めましたか。<br />
+王：5 <ruby>歳<rt>さい</rt></ruby><ruby>始<rt>はじ</rt></ruby>めました。それから、ずっと<ruby>練習<rt>れんしゅう</rt></ruby>しています。<ruby>若狭<rt>わかさ</rt></ruby>さんは何か<ruby>楽器<rt>がっき</rt></ruby>ができますか。<br />
+<ruby>若狭<rt>わかさ</rt></ruby>：ギターが<ruby>少<rt>すこ</rt></ruby>しできます。ほかの<ruby>楽器<rt>がっき</rt></ruby>はできません。バイオリンもピアノも<ruby>弾<rt>ひ</rt></ruby>けません。王さんは。<br />
+王：バイオリンは<ruby>弾<rt>ひ</rt></ruby>けませんが、ピアノは<ruby>少<rt>すこ</rt></ruby>し<ruby>弾<rt>ひ</rt></ruby>けます。<br />
+<ruby>若狭<rt>わかさ</rt></ruby>：いいですね。
+</p>

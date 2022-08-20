@@ -1505,7 +1505,13 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 
 ---
 
-# <ruby>二胡<rt>にこ</rt></ruby>ができますか。
+# 11 <ruby>二胡<rt>にこ</rt></ruby>ができますか。
+
+<style>
+.slidev-layout table {
+  line-height: 2.5rem;
+}
+</style>
 
 読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
 
@@ -1521,18 +1527,40 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 
 ---
 
-# <ruby>二胡<rt>にこ</rt></ruby>ができますか。
+# 11 <ruby>二胡<rt>にこ</rt></ruby>ができますか。
+
+<style>
+.slidev-layout p {
+  font-size: 1.5rem;
+  line-height: 1.875rem;
+  margin-top: .75rem;
+  margin-bottom: .75rem;
+}
+</style>
 
 次の会話を練習してください。
 
-<p style="font-size: 1.625rem;">
-<ruby>若狭<rt>わかさ</rt></ruby>：王さん、<ruby>音楽<rt>おんがく</rt></ruby>が好きですね。<ruby>二胡<rt>にこ</rt></ruby>ができますか。<br />
-王：はい、できます。<br />
-<ruby>若狭<rt>わかさ</rt></ruby>：ああ、よかった。<ruby>伝統的<rt>でんとうてき</rt></ruby>な<ruby>二胡<rt>にこ</rt></ruby>を聞くチャンスがありません。<ruby>暇<rt>ひま</rt></ruby>なとき、<ruby>弾<rt>ひ</rt></ruby>いてもらえませんか。
-王：いいですよ。<ruby>喜<rt>よろこ</rt></ruby>んで。<br />
-<ruby>若狭<rt>わかさ</rt></ruby>：いつから<ruby>始<rt>はじ</rt></ruby>めましたか。<br />
-王：5 <ruby>歳<rt>さい</rt></ruby><ruby>始<rt>はじ</rt></ruby>めました。それから、ずっと<ruby>練習<rt>れんしゅう</rt></ruby>しています。<ruby>若狭<rt>わかさ</rt></ruby>さんは何か<ruby>楽器<rt>がっき</rt></ruby>ができますか。<br />
-<ruby>若狭<rt>わかさ</rt></ruby>：ギターが<ruby>少<rt>すこ</rt></ruby>しできます。ほかの<ruby>楽器<rt>がっき</rt></ruby>はできません。バイオリンもピアノも<ruby>弾<rt>ひ</rt></ruby>けません。王さんは。<br />
-王：バイオリンは<ruby>弾<rt>ひ</rt></ruby>けませんが、ピアノは<ruby>少<rt>すこ</rt></ruby>し<ruby>弾<rt>ひ</rt></ruby>けます。<br />
-<ruby>若狭<rt>わかさ</rt></ruby>：いいですね。
-</p>
+<p><strong><ruby>若狭<rt>わかさ</rt></ruby></strong>：王さん、<ruby>音楽<rt>おんがく</rt></ruby>が好きですね。<ruby>二胡<rt>にこ</rt></ruby>ができますか。</p>
+<p><strong>王</strong>：はい、できます。</p>
+<p><strong><ruby>若狭<rt>わかさ</rt></ruby></strong>：ああ、よかった。<ruby>伝統的<rt>でんとうてき</rt></ruby>な<ruby>二胡<rt>にこ</rt></ruby>を聞くチャンスがありません。<ruby>暇<rt>ひま</rt></ruby>なとき、<ruby>弾<rt>ひ</rt></ruby>いてもらえませんか。</p>
+<p><strong>王</strong>：いいですよ。<ruby>喜<rt>よろこ</rt></ruby>んで。</p>
+<p><strong><ruby>若狭<rt>わかさ</rt></ruby></strong>：いつから<ruby>始<rt>はじ</rt></ruby>めましたか。</p>
+<p><strong>王</strong>：5 <ruby>歳<rt>さい</rt></ruby><ruby>始<rt>はじ</rt></ruby>めました。それから、ずっと<ruby>練習<rt>れんしゅう</rt></ruby>しています。<ruby>若狭<rt>わかさ</rt></ruby>さんは何か<ruby>楽器<rt>がっき</rt></ruby>ができますか。</p>
+<p><strong><ruby>若狭<rt>わかさ</rt></ruby></strong>：ギターが<ruby>少<rt>すこ</rt></ruby>しできます。ほかの<ruby>楽器<rt>がっき</rt></ruby>はできません。バイオリンもピアノも<ruby>弾<rt>ひ</rt></ruby>けません。王さんは。</p>
+<p><strong>王</strong>：バイオリンは<ruby>弾<rt>ひ</rt></ruby>けませんが、ピアノは<ruby>少<rt>すこ</rt></ruby>し<ruby>弾<rt>ひ</rt></ruby>けます。</p>
+<p><strong><ruby>若狭<rt>わかさ</rt></ruby></strong>：いいですね。</p>
+
+---
+
+# 11 <ruby>二胡<rt>にこ</rt></ruby>ができますか。
+
+二人で会話をしてください。
+
+<p style="font-size: 1.5rem;">A: スペイン語ができますか。</p>
+<p style="font-size: 1.5rem;">B: （スペイン語が）はい、できます。/ いいえ、（スペイン語は）できません。</p>
+
+(1) 日本語で買い物
+
+(2) <ruby>自宅<rt>じたく</rt></ruby>で料理
+
+(3) インターネットで<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>予約<rt>よやく</rt></ruby>

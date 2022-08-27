@@ -1557,10 +1557,52 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 二人で会話をしてください。
 
 <p style="font-size: 1.5rem;">A: スペイン語ができますか。</p>
-<p style="font-size: 1.5rem;">B: （スペイン語が）はい、できます。/ いいえ、（スペイン語は）できません。</p>
+<p style="font-size: 1.5rem;">B: （スペイン語が）はい、できます。</p>
+<p style="font-size: 1.5rem;">&emsp; いいえ、（スペイン語は）できません。</p>
 
 (1) 日本語で買い物
 
 (2) <ruby>自宅<rt>じたく</rt></ruby>で料理
 
 (3) インターネットで<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>予約<rt>よやく</rt></ruby>
+
+---
+
+# 11 <ruby>二胡<rt>にこ</rt></ruby>ができますか。
+
+読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
+
+| **単語**                 | **英訳**     |
+| ------------------------ | ------------ |
+| 今度（こんど）           | this time    |
+| ぜひ                     | by all means |
+| 空く（あく）             | be free      |
+| 変える（かえる）         | change       |
+| 相談する（そうだんする） | talk         |
+
+---
+
+# 11 <ruby>二胡<rt>にこ</rt></ruby>ができますか。
+
+読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
+
+- ぜひ<ruby>聞<rt>き</rt></ruby>きに来てください。
+- 日曜日は<ruby>空<rt>あ</rt></ruby>いています。
+- <ruby>変<rt>か</rt></ruby>えられませんか。
+- <ruby>相談<rt>そうだん</rt></ruby>してみます。
+
+---
+
+# 11 <ruby>二胡<rt>にこ</rt></ruby>ができますか。
+
+「どんな N」などを<ruby>使<rt>つか</rt></ruby>った<ruby>質問<rt>しつもん</rt></ruby>をしましょう。それから<ruby>答<rt>こた</rt></ruby>えてください。
+
+(1) 王さんは、日本語を<ruby>話<rt>はな</rt></ruby>すことができます。
+
+(2) <ruby>田中<rt>たなか</rt></ruby>さんは、ピアノが<ruby>弾<rt>ひ</rt></ruby>けます。
+
+(3) 李さんは、<ruby>麻婆豆腐<rt>マーボーどうふ</rt></ruby>が<ruby>作<rt>つく</rt></ruby>れます。
+
+(4) <ruby>食堂<rt>しょくどう</rt></ruby>は、夜9時まで食べられます。
+
+(5) <ruby>図書館<rt>としょかん</rt></ruby>は、8時から<ruby>利用<rt>りよう</rt></ruby>できます。

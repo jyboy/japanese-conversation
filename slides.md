@@ -1557,7 +1557,7 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 二人で会話をしてください。
 
 <p style="font-size: 1.5rem;">A: スペイン語ができますか。</p>
-<p style="font-size: 1.5rem;">B: （スペイン語が）はい、できます。</p>
+<p style="font-size: 1.5rem;">B: はい、（スペイン語が）できます。</p>
 <p style="font-size: 1.5rem;">&emsp; いいえ、（スペイン語は）できません。</p>
 
 (1) 日本語で買い物
@@ -1590,6 +1590,23 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 - 日曜日は<ruby>空<rt>あ</rt></ruby>いています。
 - <ruby>変<rt>か</rt></ruby>えられませんか。
 - <ruby>相談<rt>そうだん</rt></ruby>してみます。
+
+---
+
+# 11 <ruby>二胡<rt>にこ</rt></ruby>ができますか。
+
+二人で会話をしてください。
+
+<p style="font-size: 1.5rem;">A: ①<u><ruby>寮<rt>りょう</rt></ruby>でテレビが見られますか。</u></p>
+<p style="font-size: 1.5rem;">B: いいえ、②<u>テレビは見られません。</u></p>
+<p style="font-size: 1.5rem;">&emsp; でも、③<u>インターネットで見る</u>ことができます。</p>
+<p style="font-size: 1.5rem;">A: そうですか。</p>
+
+(1) ① このカードを使います。&emsp; ② 不可能 &emsp; ③ 現金で払います。
+
+(2) ① 土曜日に出かけます。&emsp; ② 不可能 &emsp; ③ 日曜日には出かけます。
+
+(3) ① スーパーでコーヒーを飲みます。&emsp; ② 不可能 &emsp; ③ 喫茶店で飲みます。
 
 ---
 

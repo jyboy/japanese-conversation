@@ -1623,3 +1623,39 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 (4) <ruby>食堂<rt>しょくどう</rt></ruby>は、夜9時まで食べられます。
 
 (5) <ruby>図書館<rt>としょかん</rt></ruby>は、8時から<ruby>利用<rt>りよう</rt></ruby>できます。
+
+---
+
+# 12 毎朝 7 時に起きてコーヒーを飲んています
+
+読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
+
+| **単語**         | **英訳**                |
+| ---------------- | ----------------------- |
+| 洗う（あらう）   | wash                    |
+| 描く（かく）     | draw                    |
+| ジョギング       | jogging                 |
+| 金槌（かなづち） | a person who can't swim |
+| 苦手（にがて）   | be bad                  |
+
+---
+
+# 12 毎朝 7 時に起きてコーヒーを飲んています
+
+「V ています」の使い方を<ruby>理解<rt>りかい</rt></ruby>してください。
+
+1. An action is in progress.
+
+<ruby>雨<rt>あめ</rt></ruby>が降っ<u>ています</u>。
+
+2. The outcome of the event continues.
+
+私は<ruby>結婚<rt>けっこん</rt></ruby>し<u>ています</u>。
+
+3. Habitual action repeats.
+
+毎朝、<ruby>豆乳<rt>とうにゅう</rt></ruby>を飲ん<u>でいます</u>か。
+
+4. The action/event continues.
+
+3 年間ピアノを<ruby>習<rt>なら</rt></ruby>っ<u>ています</u>。

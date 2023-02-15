@@ -1786,3 +1786,52 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 <p><ruby>本田<rt>ほんだ</rt></ruby>: いいですね。でも、この<ruby>調査<rt>ちょうさ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>は、今日中にまとめなければなりません。だから、休みは15分くらいにしましょう。</p>
 <p><ruby>陸<rt>りく</rt></ruby>: <ruby>本田<rt>ほんだ</rt></ruby> さん、この「<ruby>余暇<rt>よか</rt></ruby>の<ruby>過<rt>す</rt></ruby>ごし方」 の<ruby>調査<rt>ちょうさ</rt></ruby>は<ruby>面白<rt>おもしろ</rt></ruby>いですね。けれど、いろいろな<ruby>回答<rt>かいとう</rt></ruby>があって、まとめるのが大変です。</p>
 <p><ruby>本田<rt>ほんだ</rt></ruby>: でも、<ruby>間違<rt>まちが</rt></ruby>えてはいけませんよ。<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>資料<rt>しりょう</rt></ruby>ですから。</p>
+
+---
+
+# 13 少し休んでもいいですか。
+
+<style>
+.slidev-layout blockquote p {
+  font-size: 1.75rem;
+  line-height: 3rem;
+}
+</style>
+
+「V てください」の使い方を<ruby>理解<rt>りかい</rt></ruby>してください。
+
+> Primarily used to **make a polite request** for someone to do something.<br />
+It may also be possible to use it in a more forceful or persuasive way.
+
+<br />
+
+- この漢字の読み方を教えてください。 (to request)
+- ここに住所と名前を書いてください。 (to instruct, to order)
+- ぜひ遊びに来てください。 (to persuade)
+
+---
+
+# 13 少し休んでもいいですか。
+
+<style>
+.slidev-layout blockquote p {
+  font-size: 1.75rem;
+  line-height: 3rem;
+}
+.slidev-layout table {
+  font-size: 1.75rem;
+}
+..slidev-layout table th:first-child {
+  width: 40%;
+}
+</style>
+
+「V てもいいですか」の使い方を<ruby>理解<rt>りかい</rt></ruby>してください。
+
+> Commonly used to ask for permission to do something.
+
+**休んでもいいですか。**
+
+| Yes                                                          | No                                                           |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| はい/ええ、いいですよ。<br />どうぞ、休んでください。<br />はい、かまいませんよ。<br />はい、どうぞ。 | すみません。ちょっと。<br />すみません。今、仕事がたくさんありますので。<br />すみません。休まないでください。<br />すみません。もう少し待ってください。 |

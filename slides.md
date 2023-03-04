@@ -1800,7 +1800,7 @@ A: 私たちも、<ruby>舟<rt>ふね</rt></ruby>に乗りませんか。
 
 「V てください」の使い方を<ruby>理解<rt>りかい</rt></ruby>してください。
 
-> Primarily used to **make a polite request** for someone to do something.<br />
+> Used to **make a polite request** for someone to do something.<br />
 It may also be possible to use it in a more forceful or persuasive way.
 
 <br />
@@ -1819,7 +1819,7 @@ It may also be possible to use it in a more forceful or persuasive way.
   line-height: 3rem;
 }
 .slidev-layout table {
-  font-size: 1.75rem;
+  font-size: 1.625rem;
 }
 ..slidev-layout table th:first-child {
   width: 40%;
@@ -1828,10 +1828,27 @@ It may also be possible to use it in a more forceful or persuasive way.
 
 「V てもいいですか」の使い方を<ruby>理解<rt>りかい</rt></ruby>してください。
 
-> Commonly used to ask for permission to do something.
+> Used to ask for permission to do something.
 
 **休んでもいいですか。**
 
 | Yes                                                          | No                                                           |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | はい/ええ、いいですよ。<br />どうぞ、休んでください。<br />はい、かまいませんよ。<br />はい、どうぞ。 | すみません。ちょっと。<br />すみません。今、仕事がたくさんありますので。<br />すみません。休まないでください。<br />すみません。もう少し待ってください。 |
+
+---
+
+# 13 少し休んでもいいですか。
+
+「V てはいけません」の使い方を<ruby>理解<rt>りかい</rt></ruby>してください。
+
+> Used indicates that an action should not be done in formal situations.
+
+<br />
+
+**ここでたばこを吸ってもいいですか。**
+
+- はい、いいですよ。
+- すみません。ちょっと……
+- いいえ 、ここでたばこを吸ってはいけません。(to prohibit)
+- いいえ 、ここでたばこを吸わないでください。(to instruct)

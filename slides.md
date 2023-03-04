@@ -1852,3 +1852,63 @@ It may also be possible to use it in a more forceful or persuasive way.
 - すみません。ちょっと……
 - いいえ 、ここでたばこを吸ってはいけません。(to prohibit)
 - いいえ 、ここでたばこを吸わないでください。(to instruct)
+
+---
+
+# 13 少し休んでもいいですか。
+
+次の絵を見て、<ruby>依頼<rt>いらい</rt></ruby> / <ruby>指示<rt>しじ</rt></ruby>をしてくだしい。
+
+<div class="grid grid-cols-2 gap-4">
+  <div>
+    <span>(1) わかった人は____。</span>
+    <div>
+      <img src="/images/13-1-1.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2) <ruby>黒板<rt>こくばん</rt></ruby>に漢字を____。</span>
+    <div>
+      <img src="/images/13-1-2.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(3) 家から駅までの<ruby>地図<rt>ちず</rt></ruby>を____。</span>
+    <div>
+      <img src="/images/13-1-3.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(4) このシャツを____。</span>
+    <div>
+      <img src="/images/13-1-4.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+</div>
+
+---
+
+# 13 少し休んでもいいですか。
+
+次の絵を見て、<ruby>許可<rt>きょか</rt></ruby>を求める<ruby>表現<rt>ひょうげん</rt></ruby>と、<ruby>禁止<rt>きんし</rt></ruby>する<ruby>表現<rt>ひょうげん</rt></ruby>を使って会話をしてください。
+
+<div class="flex justify-around">
+  <div>
+    <span>(1) 授業中 / 居眠り</span>
+    <div>
+      <img src="/images/13-1-5.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2) 病院 / 携帯</span>
+    <div>
+      <img src="/images/13-1-6.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(3) 音楽会 / お菓子</span>
+    <div>
+      <img src="/images/13-1-7.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+</div>

@@ -1894,7 +1894,7 @@ It may also be possible to use it in a more forceful or persuasive way.
 
 <div class="flex justify-around">
   <div>
-    <span>(1) 授業中 / 居眠り</span>
+    <span>(1) <ruby>授業<rt>じゅぎょう</rt></ruby>中 / <ruby>居眠<rt>いねむ</rt></ruby>り</span>
     <div>
       <img src="/images/13-1-5.jpg" style="max-width: 11.25rem;" />
     </div>
@@ -1912,3 +1912,36 @@ It may also be possible to use it in a more forceful or persuasive way.
     </div>
   </div>
 </div>
+
+---
+
+# 13 少し休んでもいいですか。
+
+読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
+
+| **単語**         | **英訳**     |
+| ---------------- | ------------ |
+| 切符（きっぷ）   | ticket       |
+| 待つ（まつ）     | wait         |
+| 期待（きたい）   | anticipation |
+| 心配（しんぱい） | anxiety      |
+
+---
+
+# 13 少し休んでもいいですか。
+
+<style>
+.slidev-layout p {
+  font-size: 1.75rem;
+}
+</style>
+
+次の会話を練習してください。
+
+<p><ruby>若狭<rt>わかさ</rt></ruby>: <ruby>小川<rt>おがわ</rt></ruby>さん、<ruby>上海<rt>しゃんはい</rt></ruby>へ行 くのですか。パスポートを忘れてはいけませんよ。切符が買えませんから。</p>
+<p><ruby>小川<rt>おがわ</rt></ruby>: えっ、そうですか。</p>
+<p><ruby>若狭<rt>わかさ</rt></ruby>: 忘れないでください。</p>
+<p><ruby>小川<rt>おがわ</rt></ruby>: わかりました。大丈夫です。<ruby>心配<rt>しんぱい</rt></ruby>しないでください。</p>
+<p><ruby>若狭<rt>わかさ</rt></ruby>: お土産は買って来なくてもいいですよ。</p>
+<p><ruby>小川<rt>おがわ</rt></ruby>:（<ruby>笑<rt>わら</rt></ruby>い）わかりました。何か買って来なければなりませんね。</p>
+<p><ruby>若狭<rt>わかさ</rt></ruby>: <ruby>期待<rt>きたい</rt></ruby>しないで待っています。</p>

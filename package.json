@@ -6,9 +6,9 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.38.8",
-    "@slidev/theme-seriph": "*",
-    "postcss": "^8.2.14"
+    "@slidev/cli": "^0.42.5",
+    "@slidev/theme-seriph": "^0.21.3",
+    "postcss": "^8.4.26"
   },
   "name": "japanese_conversation"
 }

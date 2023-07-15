@@ -1896,19 +1896,19 @@ It may also be possible to use it in a more forceful or persuasive way.
   <div>
     <span>(1) <ruby>授業<rt>じゅぎょう</rt></ruby>中 / <ruby>居眠<rt>いねむ</rt></ruby>り</span>
     <div>
-      <img src="/images/13-1-5.jpg" style="max-width: 11.25rem;" />
+      <img src="/images/13-2-1.jpg" style="max-width: 11.25rem;" />
     </div>
   </div>
   <div>
     <span>(2) 病院 / 携帯</span>
     <div>
-      <img src="/images/13-1-6.jpg" style="max-width: 11.25rem;" />
+      <img src="/images/13-2-2.jpg" style="max-width: 11.25rem;" />
     </div>
   </div>
   <div>
     <span>(3) 音楽会 / お菓子</span>
     <div>
-      <img src="/images/13-1-7.jpg" style="max-width: 11.25rem;" />
+      <img src="/images/13-2-3.jpg" style="max-width: 11.25rem;" />
     </div>
   </div>
 </div>
@@ -2021,6 +2021,54 @@ It may also be possible to use it in a more forceful or persuasive way.
 
 - はい、薬を飲まなければなりません。
 - いいえ、薬を飲まなくてもいいですよ。
+
+---
+
+# 13 少し休んでもいいですか。
+
+絵を見て、「V ないこと」を<ruby>指示<rt>しじ</rt></ruby> / <ruby>命令<rt>めいれい</rt></ruby>してください。
+
+<div class="flex justify-around">
+  <div>
+    <span>(1) <ruby>試験<rt>しけん</rt></ruby>中</span>
+    <div>
+      <img src="/images/13-3-1.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2) 図書館</span>
+    <div>
+      <img src="/images/13-3-2.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(3) 部屋</span>
+    <div>
+      <img src="/images/13-3-3.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+</div>
+
+---
+
+# 13 少し休んでもいいですか。
+
+絵とキーワード (keyword) を見て、しなければならないことを<ruby>質問<rt>しつもん</rt></ruby>してください。
+
+<div class="flex justify-around">
+  <div>
+    <span>(1) 入り口 / <ruby>身分<rt>みぶん</rt></ruby><ruby>証明書<rt>しょうめいしょ</rt> / </ruby>見せます</span>
+    <div>
+      <img src="/images/13-4-1.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+  <div>
+    <span>(2) 明日 / <ruby>宿題<rt>しゅくだい</rt></ruby><ruby> / 提出<rt>ていしゅつ</rt></ruby>します</span>
+    <div>
+      <img src="/images/13-4-2.jpg" style="max-width: 11.25rem;" />
+    </div>
+  </div>
+</div>
 
 ---
 

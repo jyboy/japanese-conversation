@@ -2053,7 +2053,7 @@ It may also be possible to use it in a more forceful or persuasive way.
 
 # 13 少し休んでもいいですか。
 
-絵とキーワード (keyword) を見て、しなければならないことを<ruby>質問<rt>しつもん</rt></ruby>してください。
+絵と<ruby>キーワード<rt>keyword</rt></ruby>を見て、しなければならないことを<ruby>質問<rt>しつもん</rt></ruby>してください。
 
 <div class="flex justify-around">
   <div>
@@ -2081,3 +2081,37 @@ It may also be possible to use it in a more forceful or persuasive way.
 <p>(3) 8 時から授業がありますから、朝7時に________</p>
 
 ---
+
+# 14 母は友達を作ることも大切だと言いました。
+
+読めて<ruby>意味<rt>いみ</rt></ruby>がわかるようにしましょう。
+
+| **単語**           | **英訳**        |
+| ------------------ | --------------- |
+| 留学（りゅうがく） | studying abroad |
+| 出発（しゅっぱつ） | departure       |
+| 成績（せいせき）   | result; mark    |
+| 励ます（はげます） | encourage       |
+| 卒業（そつぎょう） | graduation      |
+| 迷惑（めいわく）   | trouble         |
+
+---
+
+# 14 母は友達を作ることも大切だと言いました。
+
+<style>
+.slidev-layout p {
+  font-size: 1.375rem;
+  line-height: 3rem;
+  margin-top: 0.875rem;
+  margin-bottom: 0.875rem;
+}
+</style>
+
+次の会話を練習してください。
+
+<p><em>喫茶店で</em></p>
+<p>A: 私が中国へ留学すると言った時、母はとても心配しました。そして、中国に来る時、勉強も大切だけど、友達を作ることも大切だと言いました。</p>
+<p>B: どの国の親も同じですね。私の両親は、私が北京に出発する時に、いい成績をとるだけでなく、自分の好きなことを見つけろと言いました。潭さんのお父さんは何と言いましたか。</p>
+<p>C: 私の父は何も言いませんでした。でも、私を励ましていると感じました。ありがたいと思いました。母は、私が健康で、無事に大学を卒業できればいいと言いました。</p>
+<p>D: みんないいお父さんやお母さんですね。私の父は、人に迷惑をかけるな、自分のことは自分でやれと言いました。</p>

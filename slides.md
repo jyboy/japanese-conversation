@@ -2108,13 +2108,12 @@ It may also be possible to use it in a more forceful or persuasive way.
 }
 </style>
 
-次の会話を練習してください。
+喫茶店での会話を練習してください。
 
-<p><em>喫茶店で</em></p>
-<p>A: 私が中国へ留学すると言った時、母はとても心配しました。そして、中国に来る時、勉強も大切だけど、友達を作ることも大切だと言いました。</p>
-<p>B: どの国の親も同じですね。私の両親は、私が北京に出発する時に、いい成績をとるだけでなく、自分の好きなことを見つけろと言いました。潭さんのお父さんは何と言いましたか。</p>
-<p>C: 私の父は何も言いませんでした。でも、私を励ましていると感じました。ありがたいと思いました。母は、私が健康で、無事に大学を卒業できればいいと言いました。</p>
-<p>D: みんないいお父さんやお母さんですね。私の父は、人に迷惑をかけるな、自分のことは自分でやれと言いました。</p>
+<p><strong><ruby>小川<rt>おがわ</rt></ruby></strong>: 私が<ruby>中国<rt>ちゅうごく</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>すると<ruby>決<rt>き</rt></ruby>めたとき、<ruby>母<rt>はは</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>心配<rt>しんぱい</rt></ruby>していました。そして、<ruby>出発<rt>しゅっぱつ</rt></ruby>する<ruby>際<rt>さい</rt></ruby>には、「<ruby>勉強<rt>べんきょう</rt></ruby>することも<ruby>大切<rt>たいせつ</rt></ruby>だけど、<ruby>良<rt>よい</rt></ruby>い<ruby>友達<rt>ともだち</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることも<ruby>忘<rt>わす</rt></ruby>れないで」と<ruby>言<rt>い</rt></ruby>ってくれました。</p>
+<p><strong><ruby>李<rt>り</rt></ruby></strong>: どこの<ruby>国<rt>くに</rt></ruby>の<ruby>親<rt>おや</rt></ruby>も<ruby>同<rt>おな</rt></ruby>じ<ruby>感<rt>かん</rt></ruby>じですね。私の<ruby>両親<rt>りょうしん</rt></ruby>も、<ruby>北京<rt>ぺきん</rt></ruby>への<ruby>出発<rt>しゅっぱつ</rt></ruby>時に、「<ruby>成績<rt>せいせき</rt></ruby>を<ruby>取<rt>と</rt></ruby>ることも<ruby>大事<rt>だいじ</rt></ruby>だけど、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>好<rt>す</rt></ruby>きなことを<ruby>見<rt>み</rt></ruby>つけることも<ruby>大切<rt>たいせつ</rt></ruby>だ」と<ruby>言<rt>い</rt></ruby>っていました。<ruby>潭<rt>たん</rt></ruby>さんのお<ruby>父<rt>とう</rt></ruby>さんはどうでしたか。</p>
+<p><strong><ruby>潭<rt>たん</rt></ruby></strong>: 私の<ruby>父<rt>ちち</rt></ruby>は<ruby>特<rt>とく</rt></ruby>に<ruby>何<rt>なに</rt></ruby>も<ruby>言<rt>い</rt></ruby>わなかったんですが、彼の<ruby>励<rt>はげ</rt></ruby>ましを<ruby>感<rt>かん</rt></ruby>じました。とてもありがたく<ruby>思<rt>おも</rt></ruby>っています。<ruby>母<rt>はは</rt></ruby>からは、「<ruby>健康<rt>けんこう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけることと、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>することが<ruby>一番<rt>いちばん</rt></ruby>だ」と<ruby>言<rt>い</rt></ruby>われました。</p>
+<p><strong><ruby>若狭<rt>わかさ</rt></ruby></strong>: みんな<ruby>素敵<rt>すてき</rt></ruby>なご<ruby>両親<rt>りょうしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていますね。私の<ruby>父<rt>ちち</rt></ruby>はいつも<ruby>厳<rt>きび</rt></ruby>しいですが、「<ruby>他人<rt>たにん</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけず、<ruby>自分<rt>じぶん</rt></ruby>のことは<ruby>自分<rt>じぶん</rt></ruby>でしっかりとやること」と<ruby>言<rt>い</rt></ruby>ってくれました。</p>
 
 ---
 

@@ -2,20 +2,13 @@
   "name": "japanese_conversation",
   "description": "Japanese conversation topics",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jyboy/japanese-conversation.git"
-  },
-  "engines": {
-    "node": ">=20.0.0 <21.0.0"
-  },
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.48.8",
+    "@slidev/cli": "^0.48.9",
     "@slidev/theme-seriph": "^0.25.0"
   }
 }
